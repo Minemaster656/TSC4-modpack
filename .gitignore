@@ -20,3 +20,5 @@ rhino.local.properties
 patchouli_data.json
 nohup.out
 
+.sl_password
+.mixin.out/
