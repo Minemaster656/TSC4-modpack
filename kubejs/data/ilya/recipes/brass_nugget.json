@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.0,
+  "cookingtime": 120,
+  "ingredient": {
+    "item": "kubejs:brass_mix"
+  },
+  "result": "create:brass_nugget"
+}

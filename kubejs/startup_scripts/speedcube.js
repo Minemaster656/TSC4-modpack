@@ -1,0 +1,18 @@
+StartupEvents.registry('item', event => {
+    event.create('speedcube')
+        .displayName('Speedcube')
+        .tooltip(Text.red('!Extratoxic!'))
+        .food(food => {
+            food.hunger(1)
+            food.alwaysEdible()
+            food.effect('minecraft:blindness', 60, 255, 1.0)
+            food.effect('minecraft:nausea', 100, 255, 1.0)
+            food.effect('biomancy:drowsy', 350, 255, 1.0)
+            food.effect('minecraft:slowness', 60, 0, 1.0)
+            food.effect('minecraft:resistance', 500, 3, 1.0)
+            food.effect('firstaid:morphine', 600, 2, 1.0)
+            food.effect('biomancy:frenzy', 600, 0, 1.0)
+            food.effect('minecraft:poison', 650, 0, 1.0)
+            food.fastToEat()
+        })
+})

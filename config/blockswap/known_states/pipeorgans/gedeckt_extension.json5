@@ -1,0 +1,905 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "tiny",
+			"shape": "single",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "small",
+			"shape": "single",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "medium",
+			"shape": "single",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "large",
+			"shape": "single",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "huge",
+			"shape": "single",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "tiny",
+			"shape": "double",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "small",
+			"shape": "double",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "large",
+			"shape": "double",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "huge",
+			"shape": "double",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "tiny",
+			"shape": "triple",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "small",
+			"shape": "triple",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "medium",
+			"shape": "triple",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "large",
+			"shape": "triple",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "huge",
+			"shape": "triple",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "tiny",
+			"shape": "quad",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "small",
+			"shape": "quad",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "medium",
+			"shape": "quad",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "large",
+			"shape": "quad",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "huge",
+			"shape": "quad",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "tiny",
+			"shape": "quad_connected",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "small",
+			"shape": "quad_connected",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "medium",
+			"shape": "quad_connected",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "large",
+			"shape": "quad_connected",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "huge",
+			"shape": "quad_connected",
+			"facing": "north"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "tiny",
+			"shape": "single",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "small",
+			"shape": "single",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "medium",
+			"shape": "single",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "large",
+			"shape": "single",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "huge",
+			"shape": "single",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "tiny",
+			"shape": "double",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "small",
+			"shape": "double",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "medium",
+			"shape": "double",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "large",
+			"shape": "double",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "huge",
+			"shape": "double",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "tiny",
+			"shape": "triple",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "small",
+			"shape": "triple",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "medium",
+			"shape": "triple",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "large",
+			"shape": "triple",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "huge",
+			"shape": "triple",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "tiny",
+			"shape": "quad",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "small",
+			"shape": "quad",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "medium",
+			"shape": "quad",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "large",
+			"shape": "quad",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "huge",
+			"shape": "quad",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "tiny",
+			"shape": "quad_connected",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "small",
+			"shape": "quad_connected",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "medium",
+			"shape": "quad_connected",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "large",
+			"shape": "quad_connected",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "huge",
+			"shape": "quad_connected",
+			"facing": "south"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "tiny",
+			"shape": "single",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "small",
+			"shape": "single",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "medium",
+			"shape": "single",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "large",
+			"shape": "single",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "huge",
+			"shape": "single",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "tiny",
+			"shape": "double",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "small",
+			"shape": "double",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "medium",
+			"shape": "double",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "large",
+			"shape": "double",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "huge",
+			"shape": "double",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "tiny",
+			"shape": "triple",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "small",
+			"shape": "triple",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "medium",
+			"shape": "triple",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "large",
+			"shape": "triple",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "huge",
+			"shape": "triple",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "tiny",
+			"shape": "quad",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "small",
+			"shape": "quad",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "medium",
+			"shape": "quad",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "large",
+			"shape": "quad",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "huge",
+			"shape": "quad",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "tiny",
+			"shape": "quad_connected",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "small",
+			"shape": "quad_connected",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "medium",
+			"shape": "quad_connected",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "large",
+			"shape": "quad_connected",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "huge",
+			"shape": "quad_connected",
+			"facing": "west"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "tiny",
+			"shape": "single",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "small",
+			"shape": "single",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "medium",
+			"shape": "single",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "large",
+			"shape": "single",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "huge",
+			"shape": "single",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "tiny",
+			"shape": "double",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "small",
+			"shape": "double",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "medium",
+			"shape": "double",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "large",
+			"shape": "double",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "huge",
+			"shape": "double",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "tiny",
+			"shape": "triple",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "small",
+			"shape": "triple",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "medium",
+			"shape": "triple",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "large",
+			"shape": "triple",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "huge",
+			"shape": "triple",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "tiny",
+			"shape": "quad",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "small",
+			"shape": "quad",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "medium",
+			"shape": "quad",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "large",
+			"shape": "quad",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "huge",
+			"shape": "quad",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "tiny",
+			"shape": "quad_connected",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "small",
+			"shape": "quad_connected",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "medium",
+			"shape": "quad_connected",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "large",
+			"shape": "quad_connected",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"size": "huge",
+			"shape": "quad_connected",
+			"facing": "east"
+		},
+		"Name": "pipeorgans:gedeckt_extension"
+	}
+]

@@ -1,0 +1,1444 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "start",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "start",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "start",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "start",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "start",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "bottom",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "bottom",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "bottom",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "bottom",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "bottom",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "bottom",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "middle",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "middle",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "middle",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "middle",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "middle",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "middle",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "top",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "top",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "top",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "top",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "top",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "top",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "horizontal",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "horizontal",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "horizontal",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "horizontal",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "horizontal",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "horizontal",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "end",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "end",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "end",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "end",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "end",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "end",
+			"facing": "north"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "start",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "start",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "start",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "start",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "start",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "start",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "bottom",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "bottom",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "bottom",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "bottom",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "bottom",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "bottom",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "middle",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "middle",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "middle",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "middle",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "middle",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "middle",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "top",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "top",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "top",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "top",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "top",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "top",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "horizontal",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "horizontal",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "horizontal",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "horizontal",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "horizontal",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "horizontal",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "end",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "end",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "end",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "end",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "end",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "end",
+			"facing": "south"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "start",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "start",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "start",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "start",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "start",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "start",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "bottom",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "bottom",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "bottom",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "bottom",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "bottom",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "bottom",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "middle",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "middle",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "middle",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "middle",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "middle",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "middle",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "top",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "top",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "top",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "top",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "top",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "top",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "horizontal",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "horizontal",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "horizontal",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "horizontal",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "horizontal",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "horizontal",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "end",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "end",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "end",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "end",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "end",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "end",
+			"facing": "west"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "start",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "start",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "start",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "start",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "start",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "start",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "bottom",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "bottom",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "bottom",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "bottom",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "bottom",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "bottom",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "middle",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "middle",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "middle",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "middle",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "middle",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "middle",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "top",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "top",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "top",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "top",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "top",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "top",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "horizontal",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "horizontal",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "horizontal",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "horizontal",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "horizontal",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "horizontal",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "left",
+			"part": "end",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "left",
+			"part": "end",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "right",
+			"part": "end",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "right",
+			"part": "end",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"side": "both",
+			"part": "end",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"side": "both",
+			"part": "end",
+			"facing": "east"
+		},
+		"Name": "escalated:glass_escalator_handrail"
+	}
+]

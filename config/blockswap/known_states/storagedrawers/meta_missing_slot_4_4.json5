@@ -1,0 +1,70 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "storagedrawers:meta_missing_slot_4_4"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"half": "false",
+			"facing": "north"
+		},
+		"Name": "storagedrawers:meta_missing_slot_4_4"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"half": "true",
+			"facing": "south"
+		},
+		"Name": "storagedrawers:meta_missing_slot_4_4"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"half": "false",
+			"facing": "south"
+		},
+		"Name": "storagedrawers:meta_missing_slot_4_4"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"half": "true",
+			"facing": "west"
+		},
+		"Name": "storagedrawers:meta_missing_slot_4_4"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"half": "false",
+			"facing": "west"
+		},
+		"Name": "storagedrawers:meta_missing_slot_4_4"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"half": "true",
+			"facing": "east"
+		},
+		"Name": "storagedrawers:meta_missing_slot_4_4"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"half": "false",
+			"facing": "east"
+		},
+		"Name": "storagedrawers:meta_missing_slot_4_4"
+	}
+]

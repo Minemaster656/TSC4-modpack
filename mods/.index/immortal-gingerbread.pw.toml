@@ -1,0 +1,13 @@
+filename = 'immortalgingerbread-1.20.1-1.0.0.0.jar'
+name = 'Immortal Gingerbread'
+side = 'both'
+
+[download]
+hash = '2c2e5150b59a79b35a245a6413d042a218ebcf4f6be150d19b5945874d981636d5ac1b2bcf14b421386d196c3ba5f8aa5c56d55961c08e9aaf57bd69ee0cacf0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6edB9U2s/versions/jXm4qVuo/immortalgingerbread-1.20.1-1.0.0.0.jar'
+
+[update.modrinth]
+mod-id = '6edB9U2s'
+version = 'jXm4qVuo'

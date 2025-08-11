@@ -1,0 +1,336 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "east"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "south"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "west"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_south"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "east_west"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "east_south"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "south_west"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "west_north"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_with_leg_northeast"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "east_south_with_leg_eastsouth"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "south_west_with_leg_southwest"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "west_north_with_leg_westnorth"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_south"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "east_south_west"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "south_west_north"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "west_north_east"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_south_with_leg_northeast"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_south_with_leg_eastsouth"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_south_with_leg_northeast_eastsouth"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "east_south_west_with_leg_eastsouth"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "east_south_west_with_leg_southwest"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "east_south_west_with_leg_eastsouth_southwest"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "south_west_north_with_leg_westnorth"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "south_west_north_with_leg_southwest"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "south_west_north_with_leg_westnorth_southwest"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "west_north_east_with_leg_northeast"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "west_north_east_with_leg_westnorth"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "west_north_east_with_leg_northeast_westnorth"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_south_west"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_south_west_with_leg_northeast_eastsouth_southwest_westnorth"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_south_west_with_leg_northeast"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_south_west_with_leg_northeast_eastsouth"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_south_west_with_leg_northeast_eastsouth_southwest"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_south_west_with_leg_eastsouth"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_south_west_with_leg_eastsouth_southwest"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_south_west_with_leg_eastsouth_southwest_westnorth"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_south_west_with_leg_southwest"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_south_west_with_leg_southwest_westnorth"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_south_west_with_leg_southwest_westnorth_northeast"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_south_west_with_leg_westnorth"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_south_west_with_leg_westnorth_northeast"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_south_west_with_leg_westnorth_northeast_eastsouth"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_south_west_with_leg_northeast_southwest"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "north_east_south_west_with_leg_eastsouth_westnorth"
+		},
+		"Name": "refurbished_furniture:red_trampoline"
+	}
+]

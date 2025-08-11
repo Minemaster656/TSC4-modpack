@@ -1,0 +1,385 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "1984exe"
+	group: ""
+	icon: "computercraft:computer_normal"
+	id: "47F631B192952E56"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7E9FFD609CF6E57C"
+			rewards: [
+				{
+					id: "1365254B7E731710"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x8"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 4b
+									Slot: 0
+									id: "kubejs:informatic_mechanism"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6027B46FA4C49C70"
+					type: "xp"
+					xp: 5
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			subtitle: "Невероятные новые возможности для ведения расчётов"
+			tasks: [{
+				id: "0F70D72CFB00568E"
+				item: "kubejs:informatic_mechanism"
+				type: "item"
+			}]
+			title: "Ergo!Киберпанк!"
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7E9FFD609CF6E57C"]
+			id: "40C901123DBE6928"
+			subtitle: "Для учёбы мне нужна RTX 7090..."
+			tasks: [{
+				id: "274456BB058C92EC"
+				item: "computercraft:computer_normal"
+				type: "item"
+			}]
+			title: "Мам, это для учёбы"
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7E9FFD609CF6E57C"]
+			id: "59DB0AB20F8D3B23"
+			rewards: [
+				{
+					id: "580EB4584A177E3F"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x12"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 8b
+									Slot: 0
+									id: "minecraft:paper"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6FF315BD6719AC5E"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Просто принтер"
+			tasks: [{
+				id: "061B0D167961D7ED"
+				item: "computercraft:printer"
+				type: "item"
+			}]
+			title: "Цифровая печать"
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7E9FFD609CF6E57C"]
+			id: "40B0696A959A15DE"
+			rewards: [
+				{
+					id: "15B5EE4D7F38E3DB"
+					item: {
+						Count: 1
+						id: "computercraft:disk"
+						tag: {
+							Color: 1118481
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "09741A24B534D925"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Ах...Скорее...Вставляй его в меня!"
+			tasks: [{
+				id: "1482A6152948A6D7"
+				item: "computercraft:printer"
+				type: "item"
+			}]
+			title: "Дисковод"
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7E9FFD609CF6E57C"]
+			id: "07330F1213B8DB73"
+			rewards: [
+				{
+					id: "7379595A54DF17E7"
+					item: {
+						Count: 1
+						id: "minecraft:potion"
+						tag: {
+							Potion: "minecraft:strong_turtle_master"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2D9663E730C3F9C6"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Робот рабочий"
+			tasks: [{
+				id: "79E69283F4B10170"
+				item: "computercraft:turtle_normal"
+				type: "item"
+			}]
+			title: "Черепашка"
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7E9FFD609CF6E57C"]
+			id: "7D8310B607C744C2"
+			rewards: [
+				{
+					id: "073A96F8C3B8D029"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x8"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 8b
+									Slot: 0
+									id: "corn_delight:popcorn_box"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "43CC6A2868DB2E85"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "4к"
+			tasks: [{
+				id: "563000C3D7DB219D"
+				item: "computercraft:monitor_normal"
+				type: "item"
+			}]
+			title: "Монитор"
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			id: "6951B85C5AABE54A"
+			rewards: [
+				{
+					id: "6CC682AFC47C52D4"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x8"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 4b
+									Slot: 0
+									id: "etched:blank_music_disc"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2A2A4902AFD8D8E1"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Зашифрованная информация"
+			tasks: [{
+				id: "73331D50B83CCECC"
+				item: "kubejs:disk_base"
+				type: "item"
+			}]
+			title: "DVD"
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			id: "06C49066A157D289"
+			rewards: [{
+				id: "3114FB569E204B71"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "Он не может приготовить пиццу ):"
+			tasks: [{
+				id: "7987C87F41F429BD"
+				item: "cccbridge:animatronic_block"
+				type: "item"
+			}]
+			title: "Андроид"
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7E9FFD609CF6E57C"]
+			id: "06A47C2DA99BA2E3"
+			rewards: [{
+				id: "4652FEAFD56247D9"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "Такой себе динамик"
+			tasks: [{
+				id: "4CC8D469EDC0D661"
+				item: "computercraft:speaker"
+				type: "item"
+			}]
+			title: "Динамик"
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			id: "1840780F6DFB4D24"
+			rewards: [
+				{
+					id: "045FBD15A230A8A1"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x8"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 8b
+									Slot: 0
+									id: "computercraft:cable"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "46C7B889985A8A44"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Проводной интернет"
+			tasks: [{
+				id: "65E78706B06CD83F"
+				item: "computercraft:cable"
+				type: "item"
+			}]
+			title: "Кабели"
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7E9FFD609CF6E57C"]
+			id: "5063B8CDFC47DB1B"
+			rewards: [
+				{
+					id: "657A71B608E2A358"
+					item: {
+						Count: 1
+						id: "createdieselgenerators:canister"
+						tag: {
+							BlockEntityTag: {
+								Tanks: [{
+									Level: {
+										Speed: 0.25f
+										Target: 1.0f
+										Value: 1.0f
+									}
+									TankContent: {
+										Amount: 4000
+										FluidName: "thermal:redstone"
+									}
+								}]
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "09F396CCBDF032D2"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "ОТПУСТИ КОТА УЁБИЩЕ"
+			tasks: [{
+				id: "0A1DF307ED84DD56"
+				item: "cyberspace:quantum_core"
+				type: "item"
+			}]
+			title: "Квантовое ядро"
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5063B8CDFC47DB1B"]
+			id: "51EC51B0DDDFAED1"
+			rewards: [
+				{
+					id: "24BE50960B285FC6"
+					item: "kubejs:dp42"
+					type: "item"
+				}
+				{
+					id: "427193319B461917"
+					item: "kubejs:ibuplacebo"
+					type: "item"
+				}
+				{
+					id: "741A5F0D160A7FBE"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Матрица"
+			tasks: [{
+				id: "2738FDECA8067EE2"
+				item: "cyberspace:terminal"
+				type: "item"
+			}]
+			title: "Выбор за тобой, Тео"
+			x: 2.5d
+			y: 2.5d
+		}
+	]
+	title: "1984.exe"
+}

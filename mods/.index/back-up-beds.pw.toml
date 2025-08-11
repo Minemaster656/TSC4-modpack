@@ -1,0 +1,13 @@
+filename = 'backupbeds-1.0.0.jar'
+name = 'Back Up Beds'
+side = 'both'
+
+[download]
+hash = '05fd5a101ffbbc99cf3bb8510d3862080b49ecd61c09465f119496b73b3a2400dc90363ab63e37a186bd905d8e853a40ef40959d337232824b4aabd76aa1c847'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/emKWxR7d/versions/aCh5Ua9b/backupbeds-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'emKWxR7d'
+version = 'aCh5Ua9b'

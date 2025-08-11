@@ -1,0 +1,13 @@
+filename = 'burn_me-1.1.0-forge-1.20.1.jar'
+name = 'Burn Me!'
+side = 'both'
+
+[download]
+hash = '0e15a28000eb4aea4c0b0120ee3253472747e6c9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5549876
+project-id = 794194

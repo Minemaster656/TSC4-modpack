@@ -1,0 +1,744 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "kinetics"
+	group: ""
+	icon: "kubejs:kinetic_mechanism"
+	id: "56755B4DF0423F2C"
+	images: [
+		{
+			height: 2.0d
+			image: "kubejs:textures/ftb/create_andesite_frame3.png"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			height: 1.5d
+			image: "kubejs:textures/ftb/create_andesite_frame3.png"
+			order: 1
+			rotation: 0.0d
+			width: 1.5d
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			height: 1.5d
+			image: "kubejs:textures/ftb/create_andesite_frame2.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			height: 1.5d
+			image: "kubejs:textures/ftb/create_andesite_frame.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			height: 1.5d
+			image: "kubejs:textures/ftb/create_andesite_frame2.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			height: 1.5d
+			image: "kubejs:textures/ftb/create_andesite_frame.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			height: 1.5d
+			image: "kubejs:textures/ftb/create_andesite_frame.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -1.0d
+			y: 0.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "create:andesite_alloy"
+			id: "2193C996856AB452"
+			rewards: [
+				{
+					id: "712E2714D9A2EFE7"
+					type: "xp"
+					xp: 1
+				}
+				{
+					id: "7748FC750EC27DE8"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x12"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 8b
+									Slot: 0
+									id: "create:andesite_alloy"
+									tag: {
+										glide: 0b
+										struck: 0b
+									}
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			subtitle: "Первый шаг на пути к индустриализации!"
+			tasks: [
+				{
+					id: "0B17F459AF74C90E"
+					item: "create:andesite_alloy"
+					type: "item"
+				}
+				{
+					id: "2663E24A50310D0A"
+					title: "Набрать кондиций"
+					type: "checkmark"
+				}
+			]
+			title: " CПЛАААААУАУАУЭ"
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2193C996856AB452"]
+			hide_dependency_lines: false
+			id: "1D8E39D869CC8DC0"
+			rewards: [
+				{
+					id: "398C64A01137FDAE"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x8"
+						tag: {
+							Items: {
+								Items: [
+									{
+										Count: 8b
+										Slot: 0
+										id: "create:cogwheel"
+									}
+									{
+										Count: 2b
+										Slot: 1
+										id: "create:large_cogwheel"
+									}
+									{
+										Count: 16b
+										Slot: 2
+										id: "create:shaft"
+									}
+								]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4F5EF74B1482227F"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Shesteryonki"
+			tasks: [
+				{
+					id: "1003366143098D48"
+					item: "create:shaft"
+					type: "item"
+				}
+				{
+					id: "7C8BA68F595D13A2"
+					item: "create:cogwheel"
+					type: "item"
+				}
+				{
+					id: "3DC1E8EE22C79E4A"
+					item: "create:large_cogwheel"
+					type: "item"
+				}
+			]
+			title: "К работе гОтов..."
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1D8E39D869CC8DC0"]
+			id: "73833D7EDE0467AC"
+			rewards: [
+				{
+					id: "3F7A424AB383FA0A"
+					item: {
+						Count: 1
+						id: "supplementaries:present_red"
+						tag: {
+							BlockEntityTag: {
+								ForgeCaps: { }
+								Items: [{
+									Count: 8b
+									Slot: 0b
+									id: "kubejs:kinetic_mechanism"
+								}]
+								Recipient: "@e"
+								Sender: "IlyaDTG"
+								id: "supplementaries:present"
+							}
+							display: {
+								Lore: ["\"(+NBT)\""]
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "54636935FA2DA0BB"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			subtitle: "Вероятно самые важные детали"
+			tasks: [{
+				id: "79DAA8F5466A3949"
+				item: "kubejs:kinetic_mechanism"
+				type: "item"
+			}]
+			title: "Оно...Движется?"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2193C996856AB452"]
+			id: "2294FE4809B18EF7"
+			rewards: [{
+				id: "438CF2C58BA17ED9"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Это база"
+			tasks: [{
+				id: "03F1226D2F424A3B"
+				item: "create:andesite_casing"
+				type: "item"
+			}]
+			title: "Андезитовые доски"
+			x: -2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["73833D7EDE0467AC"]
+			id: "67484C95B3B1FDEF"
+			rewards: [
+				{
+					id: "49533587536CBF41"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x12"
+						tag: {
+							Items: {
+								Items: [
+									{
+										Count: 4b
+										Slot: 0
+										id: "create:copper_sheet"
+									}
+									{
+										Count: 4b
+										Slot: 1
+										id: "create:golden_sheet"
+									}
+									{
+										Count: 4b
+										Slot: 2
+										id: "create:iron_sheet"
+									}
+								]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1BC26F1365D0D047"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Что будет если раздавить киндер"
+			tasks: [{
+				id: "47BCF4DC818CEC33"
+				item: "create:mechanical_press"
+				type: "item"
+			}]
+			title: "Давление"
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["73833D7EDE0467AC"]
+			id: "21CE72472B0A538A"
+			rewards: [
+				{
+					id: "60E6F9B1ACE1C9F4"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x8"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 16b
+									Slot: 0
+									id: "create:builders_tea"
+									tag: { }
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3A39BA3F500A17F7"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Время для смузи"
+			tasks: [{
+				id: "3C690F93E227B26E"
+				item: "create:mechanical_mixer"
+				type: "item"
+			}]
+			title: "Миксер"
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["73833D7EDE0467AC"]
+			id: "669C915D4FE92EEB"
+			rewards: [
+				{
+					id: "562B2F3B0ECE82DF"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x12"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 1b
+									Slot: 0
+									id: "create:propeller"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4D7EEDF3A493D0BE"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "0E1998CD58ADDF9E"
+				item: "create:encased_fan"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["73833D7EDE0467AC"]
+			id: "0A26976385913003"
+			rewards: [
+				{
+					id: "771991F8FEE82AB7"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x12"
+						tag: {
+							Items: {
+								Items: [
+									{
+										Count: 64b
+										Slot: 0
+										id: "minecraft:dead_bush"
+									}
+									{
+										Count: 64b
+										Slot: 1
+										id: "minecraft:dead_bush"
+									}
+									{
+										Count: 64b
+										Slot: 2
+										id: "minecraft:dead_bush"
+									}
+									{
+										Count: 64b
+										Slot: 3
+										id: "minecraft:dead_bush"
+									}
+									{
+										Count: 64b
+										Slot: 4
+										id: "minecraft:dead_bush"
+									}
+									{
+										Count: 64b
+										Slot: 5
+										id: "minecraft:dead_bush"
+									}
+									{
+										Count: 64b
+										Slot: 6
+										id: "minecraft:dead_bush"
+									}
+									{
+										Count: 64b
+										Slot: 7
+										id: "minecraft:dead_bush"
+									}
+									{
+										Count: 64b
+										Slot: 8
+										id: "minecraft:dead_bush"
+									}
+								]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "149B9EB6FA90049A"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Индустриальная лесозаготовка"
+			tasks: [{
+				id: "7DC1D1042D575279"
+				item: "create:mechanical_saw"
+				type: "item"
+			}]
+			title: "УБИЙЦА ПЛАНЕТЫ"
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["73833D7EDE0467AC"]
+			id: "2AE68D85D448A1DE"
+			rewards: [
+				{
+					id: "6594DAB35E308363"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x12"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 1b
+									Slot: 0
+									id: "minecraft:cobblestone"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "112F977EA5585F69"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "66486C7F9E190A6B"
+				item: "create:mechanical_drill"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["73833D7EDE0467AC"]
+			id: "5811DA805F674335"
+			rewards: [
+				{
+					id: "10266F2F8FB13263"
+					item: "nethers_exoticism:bouddha_s_hand"
+					type: "item"
+				}
+				{
+					id: "6558B871A31BD3FF"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "010BF489031FC6AE"
+				item: "create:deployer"
+				type: "item"
+			}]
+			title: "Тык-мык"
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			id: "6F9197A88A347DFC"
+			rewards: [
+				{
+					id: "651332F6CAFC6287"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x10"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 64b
+									Slot: 0
+									id: "create:cardboard"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "40D29A268641665B"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Ты коробка"
+			tasks: [
+				{
+					id: "394B2BE27ED1694D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "create:cardboard_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "01FB27E025BE008E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "create:cardboard_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "15EB9E35433F488B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "create:cardboard_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "50B7DBB24D2E4CEE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "create:cardboard_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "44ABD64C53979C60"
+					item: "create:cardboard_sword"
+					type: "item"
+				}
+			]
+			title: "Я коробка"
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			id: "46045F8FFC1DEC96"
+			optional: true
+			rewards: [
+				{
+					id: "27D97DA75B59A711"
+					item: "create:clipboard"
+					type: "item"
+				}
+				{
+					id: "6791C9EEDB63AACD"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Время для планирования"
+			tasks: [
+				{
+					id: "2128BD5792F8E0B2"
+					item: "create:wrench"
+					type: "item"
+				}
+				{
+					id: "2717825989123300"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "create:goggles"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "665195BA56514637"
+					item: "create:brown_toolbox"
+					type: "item"
+				}
+			]
+			title: "Записывай"
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			id: "3EC0AAF84F18895E"
+			rewards: [
+				{
+					id: "19B85000C29FDF1A"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x12"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 1b
+									Slot: 0
+									id: "create:mysterious_cuckoo_clock"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4E0226EBF53C2808"
+					type: "xp"
+					xp: 5
+				}
+			]
+			shape: "gear"
+			subtitle: "Теперь в разы точнее"
+			tasks: [{
+				id: "2F2B2C597BB71AB6"
+				item: "create:precision_mechanism"
+				type: "item"
+			}]
+			title: "Улучшенная кинетика"
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"21CE72472B0A538A"
+				"26B0C96628338D7E"
+			]
+			hide_until_deps_complete: true
+			id: "0CB557D5512BBA32"
+			optional: true
+			rewards: [{
+				id: "6FC3F87C927E4134"
+				item: {
+					Count: 1
+					id: "createdieselgenerators:canister"
+					tag: {
+						BlockEntityTag: {
+							Tanks: [{
+								Level: {
+									Speed: 0.25f
+									Target: 1.0f
+									Value: 1.0f
+								}
+								TankContent: {
+									Amount: 4000
+									FluidName: "lteg:goo"
+								}
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Выглядит как рвота, на вкус тоже"
+			tasks: [{
+				id: "5B2413119895DE90"
+				item: "lteg:goo_can"
+				type: "item"
+			}]
+			title: "Суперфуд"
+			x: 2.5d
+			y: -5.5d
+		}
+	]
+	subtitle: ["Сначала, было начало"]
+	title: "Кинетическая Механика"
+}

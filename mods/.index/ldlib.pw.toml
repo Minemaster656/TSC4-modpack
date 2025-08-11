@@ -1,0 +1,13 @@
+filename = 'ldlib-forge-1.20.1-1.0.41.b.jar'
+name = 'LowDragLib'
+side = 'both'
+
+[download]
+hash = 'b17d538b82cf10e398dc6634ec0695c6ad0b8eb8d2a81bb719e30cc4deeb46f7e9530629859475eb04fa540c9c4cb28101122cb7fda0d77c24a834312136fffb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/B1CBVXHX/versions/Xj1Bmprx/ldlib-forge-1.20.1-1.0.41.b.jar'
+
+[update.modrinth]
+mod-id = 'B1CBVXHX'
+version = 'Xj1Bmprx'

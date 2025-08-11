@@ -1,0 +1,13 @@
+filename = 'vintageimprovements-1.20.1-0.3.1.0.jar'
+name = 'vintage improvements'
+side = 'both'
+
+[download]
+hash = 'eb9a580b6b4e53c89d67ef5ac54463fcadd02f3a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6466712
+project-id = 1252306

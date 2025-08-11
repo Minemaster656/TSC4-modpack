@@ -1,0 +1,13 @@
+filename = 'lteg-1.0.0-forge-1.20.1.jar'
+name = 'Create: Let them eat Goo!'
+side = 'both'
+
+[download]
+hash = '6fb6973154e239c354621f79623089b04fb983b5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5962695
+project-id = 1153376

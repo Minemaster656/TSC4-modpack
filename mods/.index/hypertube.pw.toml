@@ -1,0 +1,13 @@
+filename = 'create_hypertube-0.2.4-FORGE.jar'
+name = 'Create Hypertube'
+side = 'both'
+
+[download]
+hash = 'debb83aa50948e4eca156017b3d2829c4d398e269800c651a0780c8150be1bbcd06dbf2fc2bfc58f869e2c981b5d1e8613d183687a6b6b07bd19fe326b3e08e6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ATDdrG1y/versions/zRjvJvQr/create_hypertube-0.2.4-FORGE.jar'
+
+[update.modrinth]
+mod-id = 'ATDdrG1y'
+version = 'zRjvJvQr'

@@ -1,0 +1,293 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "bottom",
+			"left": "true",
+			"facing": "north"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "middle",
+			"left": "true",
+			"facing": "north"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "top",
+			"left": "true",
+			"facing": "north"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "horizontal",
+			"left": "false",
+			"facing": "north"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "bottom",
+			"left": "false",
+			"facing": "north"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "middle",
+			"left": "false",
+			"facing": "north"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "top",
+			"left": "false",
+			"facing": "north"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "horizontal",
+			"left": "true",
+			"facing": "south"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "bottom",
+			"left": "true",
+			"facing": "south"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "middle",
+			"left": "true",
+			"facing": "south"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "top",
+			"left": "true",
+			"facing": "south"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "horizontal",
+			"left": "false",
+			"facing": "south"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "bottom",
+			"left": "false",
+			"facing": "south"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "middle",
+			"left": "false",
+			"facing": "south"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "top",
+			"left": "false",
+			"facing": "south"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "horizontal",
+			"left": "true",
+			"facing": "west"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "bottom",
+			"left": "true",
+			"facing": "west"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "middle",
+			"left": "true",
+			"facing": "west"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "top",
+			"left": "true",
+			"facing": "west"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "horizontal",
+			"left": "false",
+			"facing": "west"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "bottom",
+			"left": "false",
+			"facing": "west"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "middle",
+			"left": "false",
+			"facing": "west"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "top",
+			"left": "false",
+			"facing": "west"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "horizontal",
+			"left": "true",
+			"facing": "east"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "bottom",
+			"left": "true",
+			"facing": "east"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "middle",
+			"left": "true",
+			"facing": "east"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "top",
+			"left": "true",
+			"facing": "east"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "horizontal",
+			"left": "false",
+			"facing": "east"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "bottom",
+			"left": "false",
+			"facing": "east"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "middle",
+			"left": "false",
+			"facing": "east"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slope": "top",
+			"left": "false",
+			"facing": "east"
+		},
+		"Name": "escalated:wooden_wide_escalator_side"
+	}
+]

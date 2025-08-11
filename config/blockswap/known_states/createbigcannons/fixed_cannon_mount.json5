@@ -1,0 +1,964 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "true",
+			"facing": "north",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "true",
+			"facing": "north",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "true",
+			"facing": "north",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "true",
+			"facing": "north",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "false",
+			"facing": "north",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "false",
+			"facing": "north",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "false",
+			"facing": "north",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "false",
+			"facing": "north",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "true",
+			"facing": "east",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "true",
+			"facing": "east",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "true",
+			"facing": "east",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "true",
+			"facing": "east",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "false",
+			"facing": "east",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "false",
+			"facing": "east",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "false",
+			"facing": "east",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "false",
+			"facing": "east",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "true",
+			"facing": "south",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "true",
+			"facing": "south",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "true",
+			"facing": "south",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "true",
+			"facing": "south",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "false",
+			"facing": "south",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "false",
+			"facing": "south",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "false",
+			"facing": "south",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "false",
+			"facing": "south",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "true",
+			"facing": "west",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "true",
+			"facing": "west",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "true",
+			"facing": "west",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "true",
+			"facing": "west",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "false",
+			"facing": "west",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "false",
+			"facing": "west",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "false",
+			"facing": "west",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "false",
+			"facing": "west",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "true",
+			"facing": "up",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "true",
+			"facing": "up",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "true",
+			"facing": "up",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "true",
+			"facing": "up",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "false",
+			"facing": "up",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "false",
+			"facing": "up",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "false",
+			"facing": "up",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "false",
+			"facing": "up",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "true",
+			"facing": "down",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "true",
+			"facing": "down",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "true",
+			"facing": "down",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "true",
+			"facing": "down",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "false",
+			"facing": "down",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "false",
+			"facing": "down",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "false",
+			"facing": "down",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "false",
+			"facing": "down",
+			"assembly_powered": "true"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "true",
+			"facing": "north",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "true",
+			"facing": "north",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "true",
+			"facing": "north",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "true",
+			"facing": "north",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "false",
+			"facing": "north",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "false",
+			"facing": "north",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "false",
+			"facing": "north",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "true",
+			"facing": "east",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "true",
+			"facing": "east",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "true",
+			"facing": "east",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "true",
+			"facing": "east",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "false",
+			"facing": "east",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "false",
+			"facing": "east",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "false",
+			"facing": "east",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "false",
+			"facing": "east",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "true",
+			"facing": "south",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "true",
+			"facing": "south",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "true",
+			"facing": "south",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "true",
+			"facing": "south",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "false",
+			"facing": "south",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "false",
+			"facing": "south",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "false",
+			"facing": "south",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "false",
+			"facing": "south",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "true",
+			"facing": "west",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "true",
+			"facing": "west",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "true",
+			"facing": "west",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "true",
+			"facing": "west",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "false",
+			"facing": "west",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "false",
+			"facing": "west",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "false",
+			"facing": "west",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "false",
+			"facing": "west",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "true",
+			"facing": "up",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "true",
+			"facing": "up",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "true",
+			"facing": "up",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "true",
+			"facing": "up",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "false",
+			"facing": "up",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "false",
+			"facing": "up",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "false",
+			"facing": "up",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "false",
+			"facing": "up",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "true",
+			"facing": "down",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "true",
+			"facing": "down",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "true",
+			"facing": "down",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "true",
+			"facing": "down",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "north",
+			"fire_powered": "false",
+			"facing": "down",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "south",
+			"fire_powered": "false",
+			"facing": "down",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "east",
+			"fire_powered": "false",
+			"facing": "down",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "west",
+			"fire_powered": "false",
+			"facing": "down",
+			"assembly_powered": "false"
+		},
+		"Name": "createbigcannons:fixed_cannon_mount"
+	}
+]

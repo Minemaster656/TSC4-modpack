@@ -1,0 +1,28 @@
+
+["blood spray settings"]
+	#How long in ticks (20 ticks = 1 second) until a blood spatter despawns.
+	#Range: 0 ~ 100000
+	despawn_time = 2000
+	#The maximum amount of blood spatters that can exist in the world at once.
+	#Range: 0 ~ 10000
+	max_spatters = 500
+	#Whether or not a blood explosion should replace the death poof when an entity dies.
+	death_blood_explosion = true
+	#Whether or not blood chunks should replace the poof particles when an entity dies (DEATH_BLOOD_EXPLOSION needs to be true for this to be true).
+	show_blood_chunks = false
+	#The maximum amount of blood chunks that can exist in the world at once.
+	#Range: 0 ~ 10000
+	max_chunks = 250
+	#The volume of a blood spatter.
+	#Range: 0.0 ~ 1.0
+	blood_spatter_volume = 0.75
+	#The volume of a blood explosion whenever an entity dies.
+	#Range: 0.0 ~ 1.0
+	blood_explosion_volume = 0.75
+	#Define what mobs 'bleed' solid bits. This is mainly skeletons. Instead of bleeding they will just shoot out colored bits,and instead of getting bloodier when damaged, they will lose pixels.
+	solid_entities = ["minecraft:skeleton", "minecraft:skeleton_horse", "minecraft:wither_skeleton", "minecraft:wither", "minecraft:shulker"]
+	#Some mobs don't play nice with this mod, and may cause crashes. Define which mobs you want to blacklist here.
+	blacklist_entities = ["alexsmobs:cachalot_whale"]
+	#Define what damage sources will be blacklisted from producing blood sprays or explosions.
+	blacklist_damage_sources = ["onFire", "inFire", "starve", "drown", "hotFloor", "dragonBreath", "dryOut", "freeze", "lava"]
+

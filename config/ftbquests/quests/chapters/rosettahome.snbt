@@ -1,0 +1,781 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "rosettahome"
+	group: ""
+	icon: "biomancy:mob_marrow"
+	id: "774DF3E268F6CF33"
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			id: "11CE22E360EC1144"
+			rewards: [
+				{
+					id: "1BCBA645D1EDEACB"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x8"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 8b
+									Slot: 0
+									id: "bio_delight:goreburger"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "12980F081080EB17"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			shape: "circle"
+			size: 1.5d
+			subtitle: "Оно....Смотрит?"
+			tasks: [{
+				id: "7B75BB982EDD76A9"
+				item: "biomancy:primordial_core"
+				type: "item"
+			}]
+			title: "Биопанк?"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["11CE22E360EC1144"]
+			id: "2A7288863315E295"
+			rewards: [{
+				id: "421BA3FFF9AC504D"
+				item: {
+					Count: 1
+					id: "create:cardboard_package_10x8"
+					tag: {
+						Items: {
+							Items: [
+								{
+									Count: 1b
+									Slot: 0
+									id: "biomancy:stone_powder"
+								}
+								{
+									Count: 1b
+									Slot: 1
+									id: "biomancy:nutrients"
+								}
+								{
+									Count: 1b
+									Slot: 2
+									id: "biomancy:hormone_secretion"
+								}
+								{
+									Count: 1b
+									Slot: 3
+									id: "biomancy:gem_fragments"
+								}
+								{
+									Count: 1b
+									Slot: 4
+									id: "biomancy:bile"
+								}
+								{
+									Count: 1b
+									Slot: 5
+									id: "biomancy:elastic_fibers"
+								}
+								{
+									Count: 1b
+									Slot: 6
+									id: "biomancy:mineral_fragment"
+								}
+								{
+									Count: 1b
+									Slot: 7
+									id: "biomancy:tough_fibers"
+								}
+								{
+									Count: 1b
+									Slot: 8
+									id: "biomancy:bone_fragments"
+								}
+							]
+							Size: 9
+						}
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Придаёт форму плоти"
+			tasks: [{
+				id: "4B4F0BBEA8987CF9"
+				item: "biomancy:bio_forge"
+				type: "item"
+			}]
+			title: "Био-кузница"
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["11CE22E360EC1144"]
+			id: "24F9AD08668065E5"
+			rewards: [
+				{
+					id: "245DA88AB76291F4"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x12"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 16b
+									Slot: 0
+									id: "biomancy:nutrient_paste"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "504F1BB9FBCD01DA"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "7BDAF409CE4E7A03"
+				item: "biomancy:digester"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["11CE22E360EC1144"]
+			id: "0D35871D546FD130"
+			rewards: [
+				{
+					id: "757249D7FBB89572"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x10"
+						tag: {
+							Items: {
+								Items: [
+									{
+										Count: 1b
+										Slot: 0
+										id: "biomancy:tough_fibers"
+									}
+									{
+										Count: 1b
+										Slot: 1
+										id: "biomancy:bone_fragments"
+									}
+									{
+										Count: 1b
+										Slot: 2
+										id: "biomancy:exotic_dust"
+									}
+									{
+										Count: 1b
+										Slot: 3
+										id: "biomancy:stone_powder"
+									}
+									{
+										Count: 1b
+										Slot: 4
+										id: "biomancy:elastic_fibers"
+									}
+									{
+										Count: 1b
+										Slot: 5
+										id: "biomancy:mineral_fragment"
+									}
+									{
+										Count: 1b
+										Slot: 6
+										id: "biomancy:gem_fragments"
+									}
+									{
+										Count: 1b
+										Slot: 7
+										id: "biomancy:nutrients"
+									}
+									{
+										Count: 1b
+										Slot: 8
+										id: "biomancy:organic_matter"
+									}
+								]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5146D886652AA76E"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "1E5BE709EC1CD61E"
+				item: "biomancy:decomposer"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["11CE22E360EC1144"]
+			id: "10422756CCA4FE35"
+			rewards: [{
+				id: "25055C6310C6E1AE"
+				item: {
+					Count: 1
+					id: "create:cardboard_package_10x8"
+					tag: {
+						Items: {
+							Items: [{
+								Count: 16b
+								Slot: 0
+								id: "biomancy:vial"
+							}]
+							Size: 9
+						}
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "53DB5AEF08A4D345"
+				item: "biomancy:bio_lab"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["11CE22E360EC1144"]
+			id: "06FCDC9EAF90288E"
+			rewards: [
+				{
+					id: "32DEEFB4EB039AF7"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x10"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 8b
+									Slot: 0
+									id: "biomancy:healing_additive"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4BCE241BD1D6395A"
+					type: "xp"
+					xp: 5
+				}
+			]
+			size: 1.5d
+			subtitle: "Примитивный рукотворный организм"
+			tasks: [{
+				id: "52E9B15D289C79D4"
+				item: "biomancy:primordial_cradle"
+				type: "item"
+			}]
+			title: "Колыбель"
+			x: 1.5d
+			y: -3.75d
+		}
+		{
+			dependencies: ["2A7288863315E295"]
+			id: "5670560F42370940"
+			rewards: [
+				{
+					id: "5B27CB3999D82D68"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x10"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 1b
+									Slot: 0
+									id: "biomancy:nutrient_bar"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4B1357351D907FEE"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Закутайте своё тело в живой организм, который примет удар на себя, а так же упростит работу с биотехнологиями"
+			tasks: [
+				{
+					id: "00A462543D604276"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "biomancy:acolyte_armor_helmet"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "2D490E9988736031"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "biomancy:acolyte_armor_chestplate"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "3FB7D1039BF1A43B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "biomancy:acolyte_armor_leggings"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "22B0F9CB703CD040"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "biomancy:acolyte_armor_boots"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Пушечное мясо"
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2A7288863315E295"]
+			id: "0C9D5F61728C695A"
+			rewards: [{
+				id: "2DDFC817D7F49881"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "54E266DA279BAF7C"
+				item: {
+					Count: 1
+					id: "biomancy:ravenous_claws"
+					tag: {
+						LivingToolState: 1b
+						"biomancy:nutrients": 250
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2A7288863315E295"]
+			id: "0C9C90F39F6557C4"
+			rewards: [
+				{
+					id: "24DF447135FA7D30"
+					item: "biomancy:frenzy_serum"
+					type: "item"
+				}
+				{
+					id: "7256C89CB2D2893C"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Вводит вещества"
+			tasks: [{
+				id: "250EFAB2A4990590"
+				item: {
+					Count: 1
+					id: "biomancy:injector"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Био-инжектор"
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2A7288863315E295"]
+			id: "40C0D5324D61D9C5"
+			rewards: [{
+				id: "703D8CE018E31D2F"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "Позволяет получать генетический материал сущностей"
+			tasks: [{
+				id: "34FE723F89414B4A"
+				item: {
+					Count: 1
+					id: "biomancy:extractor"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Экстрактор эссэнций"
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2A7288863315E295"]
+			id: "7B0442A9C41FF492"
+			rewards: [
+				{
+					id: "156BF51CEC330956"
+					item: "bio_delight:primal_rib"
+					type: "item"
+				}
+				{
+					id: "0C9E90E051508EA3"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Время для кухни из биомусора"
+			tasks: [{
+				id: "29087E8AB18FD4D1"
+				item: {
+					Count: 1
+					id: "bio_delight:bio_knife"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Био-нож"
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["10422756CCA4FE35"]
+			id: "31BCBCC89C786F40"
+			rewards: [
+				{
+					id: "39659B0A25763A21"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x12"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 4b
+									Slot: 0
+									id: "biomancy:hormone_secretion"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3376538A0C9A1E25"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "1B37CFD80E759DB2"
+				item: "biomancy:enlargement_serum"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["10422756CCA4FE35"]
+			id: "281F0615692C68BB"
+			rewards: [
+				{
+					id: "1D64C2044965B468"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x12"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 4b
+									Slot: 0
+									id: "biomancy:hormone_secretion"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "20523E8B250DBB7B"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "01AF46BCBB8BEB5D"
+				item: "biomancy:shrinking_serum"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["10422756CCA4FE35"]
+			id: "4D2633773C75CBF4"
+			rewards: [
+				{
+					id: "54AA88EDAFA56DAC"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x8"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 4b
+									Slot: 0
+									id: "biomancy:volatile_fluid"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3C0AE5C671D47F82"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "2688D6E8D7B169E5"
+				item: "biomancy:frenzy_serum"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["10422756CCA4FE35"]
+			id: "1B90A6316E516B61"
+			rewards: [
+				{
+					id: "732242744C60C7E6"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x12"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 16b
+									Slot: 0
+									id: "biomancy:nutrient_paste"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "76B57682FDD08021"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "11DE9495977B8564"
+				item: "biomancy:breeding_stimulant"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["10422756CCA4FE35"]
+			id: "4F9974299148575B"
+			rewards: [
+				{
+					id: "12F14011FCE3BCEB"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x10"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 4b
+									Slot: 0
+									id: "biomancy:healing_additive"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7887A0BD9DC10BE2"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "5D48563A40DCEE45"
+				item: "biomancy:absorption_boost"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["11CE22E360EC1144"]
+			id: "1F75D6D3BA368287"
+			rewards: [
+				{
+					id: "67B8D00295083A67"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x12"
+						tag: {
+							Items: {
+								Items: [
+									{
+										Count: 1b
+										Slot: 0
+										id: "biomancy:mob_marrow"
+									}
+									{
+										Count: 1b
+										Slot: 1
+										id: "biomancy:mob_gland"
+									}
+									{
+										Count: 1b
+										Slot: 2
+										id: "biomancy:volatile_gland"
+									}
+									{
+										Count: 1b
+										Slot: 3
+										id: "biomancy:mob_claw"
+									}
+									{
+										Count: 1b
+										Slot: 4
+										id: "biomancy:mob_fang"
+									}
+									{
+										Count: 1b
+										Slot: 5
+										id: "biomancy:elastic_fibers"
+									}
+									{
+										Count: 1b
+										Slot: 6
+										id: "biomancy:withered_mob_marrow"
+									}
+									{
+										Count: 1b
+										Slot: 7
+										id: "biomancy:toxin_gland"
+									}
+								]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7BF3062B4709CDE3"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Выдерает органы, и позволяет собирать кровь"
+			tasks: [{
+				id: "49078098A74896E7"
+				item: {
+					Count: 1
+					id: "biomancy:despoil_sickle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Потрошитель"
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5670560F42370940"]
+			id: "4398FEAF66EFE05D"
+			subtitle: "Рэдбулл, окрыляет"
+			tasks: [{
+				id: "175E3B4E362CF309"
+				item: "icarus:red_mechanical_feathered_wings"
+				type: "item"
+			}]
+			title: "Крылья"
+			x: -2.0d
+			y: -4.0d
+		}
+	]
+	title: "Rosetta@home"
+}

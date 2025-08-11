@@ -1,0 +1,16 @@
+filename = 'Block Swap-forge-1.20.1-5.0.0.0.jar'
+name = 'Block Swap'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4227b864ae79eadf2afef5ca79888f135732e85a1feece7022a87d66be23855f184d6018ab69b7b3a7be3847e1da8fd4b6e4954ab853a9bf10e6110e9912c9a4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/f9kXyjJX/versions/XBaeaswr/Block Swap-forge-1.20.1-5.0.0.0.jar'
+
+[update.modrinth]
+mod-id = 'f9kXyjJX'
+version = 'XBaeaswr'

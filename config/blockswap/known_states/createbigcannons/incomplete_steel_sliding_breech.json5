@@ -1,0 +1,221 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"facing": "north",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"facing": "north",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"facing": "east",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"facing": "east",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"facing": "south",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"facing": "south",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"facing": "west",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"facing": "west",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"facing": "up",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"facing": "up",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"facing": "down",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"facing": "down",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"facing": "north",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"facing": "east",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"facing": "east",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"facing": "south",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"facing": "south",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"facing": "west",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"facing": "west",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"facing": "up",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"facing": "up",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "0",
+			"facing": "down",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"stage": "1",
+			"facing": "down",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:incomplete_steel_sliding_breech"
+	}
+]

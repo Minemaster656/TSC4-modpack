@@ -1,0 +1,13 @@
+filename = 'mysterious_mountain_lib-1.5.22-1.20.1.jar'
+name = 'Mysterious Mountain Lib'
+side = 'both'
+
+[download]
+hash = 'be896ab0cad63779b4a5ddd5519b5151c11979babfc213fce4ce82bc77a2751223f0c300a3ff2bf993e89d3f4c8de77a3bfbd3669641831d90008eb43472046a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ntMyNH8c/versions/GCX4PZJn/mysterious_mountain_lib-1.5.22-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'ntMyNH8c'
+version = 'GCX4PZJn'

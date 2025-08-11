@@ -1,0 +1,8 @@
+{
+    "doesBarrelFoolEndermen": true,
+    "doesBarrelHideParticles": true,
+    "doesBarrelFoolMobs": true,
+    "doesBarrelFoolAttackers": false,
+    "canOpenPlayerBarrels": true,
+    "barrelRotates": true
+}

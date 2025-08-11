@@ -1,0 +1,13 @@
+filename = 'biofactory-forge-1.20.1-0.6.0.jar'
+name = 'Bio-Factory'
+side = 'both'
+
+[download]
+hash = '5b9a783a760d1dbc6798c1392d950d7d22af8344'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6293100
+project-id = 1136762

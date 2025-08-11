@@ -1,0 +1,5 @@
+
+[setVaultLimit]
+	siloLimit = 128.0
+	ableSiloPlacing = true
+

@@ -1,0 +1,13 @@
+filename = "Critters n' Crawlers-2.2.4-mc1.20.1.jar"
+name = "Critters n' Crawlers"
+side = 'both'
+
+[download]
+hash = '861cc6cae4a8ff5c99ee355cd21e4cc58dd66ae57236af70540e3f493000e8cfbfc83dd9fa4d5d5b7425903676925bea77676513b35f7401e185185421b036e1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JxyIfnWu/versions/5Xn9p2q1/Critters n%27 Crawlers-2.2.4-mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'JxyIfnWu'
+version = '5Xn9p2q1'

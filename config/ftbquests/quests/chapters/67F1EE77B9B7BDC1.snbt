@@ -1,0 +1,256 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "67F1EE77B9B7BDC1"
+	group: ""
+	icon: "createaddition:capacitor"
+	id: "67F1EE77B9B7BDC1"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5FAA1F161E637412"
+			rewards: [
+				{
+					id: "398BB483317BAB81"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x12"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 4b
+									Slot: 0
+									id: "createaddition:capacitor"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5E93AC74FC175DB0"
+					type: "xp"
+					xp: 5
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			subtitle: "Маленький аккумулятор"
+			tasks: [{
+				id: "48D1CD970536C258"
+				item: "createaddition:capacitor"
+				type: "item"
+			}]
+			title: "Конденсатор"
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5FAA1F161E637412"]
+			id: "64456311F80B8E3F"
+			rewards: [
+				{
+					id: "0D480F4D6AFCEC34"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x10"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 4b
+									Slot: 0
+									id: "create:builders_tea"
+									tag: { }
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6A57B6D4C0A7B985"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Генерирует электричество"
+			tasks: [{
+				id: "714E0FCCB9AEF299"
+				item: "createaddition:alternator"
+				type: "item"
+			}]
+			title: "Генератор"
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5FAA1F161E637412"]
+			id: "1418761C05D219CA"
+			rewards: [
+				{
+					id: "6144A02A0FB18465"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x12"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 4b
+									Slot: 0
+									id: "farmersdelight:melon_juice"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5F1590A4E56E5083"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "(Нет)"
+			tasks: [{
+				id: "467BB4B5770483A3"
+				item: "createaddition:electric_motor"
+				type: "item"
+			}]
+			title: "Экологично"
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5FAA1F161E637412"]
+			id: "0ABBD7AA3FFF171E"
+			rewards: [
+				{
+					id: "143A40AD89DEA525"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x10"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 16b
+									Slot: 0
+									id: "scguns:shock_cell"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "186E0D421A7783F6"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Фембойчик астольфо"
+			tasks: [{
+				id: "692C6FE3797CC963"
+				item: "createaddition:tesla_coil"
+				type: "item"
+			}]
+			title: "Великий учёный..."
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5FAA1F161E637412"]
+			id: "74637E171AB8AD69"
+			rewards: [{
+				id: "5A38A87450C0412C"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "Возможность хранить энергию"
+			tasks: [{
+				id: "1F01371170B4BCDD"
+				item: "createaddition:modular_accumulator"
+				type: "item"
+			}]
+			title: "Аккумулятор"
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "0316E3D0E19861CC"
+			rewards: [{
+				id: "6D791373DFA8F650"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "Маленький конектор"
+			tasks: [{
+				id: "6F77A901F50DCDC3"
+				item: "createaddition:connector"
+				type: "item"
+			}]
+			title: "Конектор"
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			id: "7B0ACA21A4B53EE4"
+			rewards: [
+				{
+					id: "31DBC00B015D48E8"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x12"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 8b
+									Slot: 0
+									id: "createaddition:copper_spool"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6440E12807A0BF11"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Проводят электричество"
+			tasks: [{
+				id: "324535C007403DD0"
+				item: "createaddition:copper_spool"
+				type: "item"
+			}]
+			title: "Катушка проводов"
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			id: "6B735C1F854DCC9F"
+			rewards: [{
+				id: "0AD75C8DF7603673"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "МАМА НАМ ОТКЛЮЧИЛИ СВЕТ!"
+			tasks: [{
+				id: "4A452F087CCE9C75"
+				item: "createaddition:redstone_relay"
+				type: "item"
+			}]
+			title: "Умное Реле"
+			x: 2.5d
+			y: 0.5d
+		}
+	]
+	title: "Электрификация"
+}

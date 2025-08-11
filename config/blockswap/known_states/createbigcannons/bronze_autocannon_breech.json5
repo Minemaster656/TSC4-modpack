@@ -1,0 +1,221 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"handle": "true",
+			"facing": "north"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"handle": "true",
+			"facing": "north"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"handle": "false",
+			"facing": "north"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"handle": "true",
+			"facing": "east"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"handle": "true",
+			"facing": "east"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"handle": "false",
+			"facing": "east"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"handle": "false",
+			"facing": "east"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"handle": "true",
+			"facing": "south"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"handle": "true",
+			"facing": "south"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"handle": "false",
+			"facing": "south"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"handle": "false",
+			"facing": "south"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"handle": "true",
+			"facing": "west"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"handle": "true",
+			"facing": "west"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"handle": "false",
+			"facing": "west"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"handle": "false",
+			"facing": "west"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"handle": "true",
+			"facing": "up"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"handle": "true",
+			"facing": "up"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"handle": "false",
+			"facing": "up"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"handle": "false",
+			"facing": "up"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"handle": "true",
+			"facing": "down"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"handle": "true",
+			"facing": "down"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"handle": "false",
+			"facing": "down"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"handle": "false",
+			"facing": "down"
+		},
+		"Name": "createbigcannons:bronze_autocannon_breech"
+	}
+]

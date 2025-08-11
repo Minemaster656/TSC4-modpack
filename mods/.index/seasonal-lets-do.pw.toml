@@ -1,0 +1,13 @@
+filename = 'seasonal_lets_do-forge-1.2.0.jar'
+name = "Seasonal Let's Do"
+side = 'server'
+
+[download]
+hash = 'bcd08bf43ee3bb5588e1201119f50368d549636b09e80b827edc5d8a082ef55057d5a1b8ce581de034b646ad969ed4a60a3690cf6411ab17565332ef2f09f2c5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yFIPn94r/versions/ZmTFYQF1/seasonal_lets_do-forge-1.2.0.jar'
+
+[update.modrinth]
+mod-id = 'yFIPn94r'
+version = 'ZmTFYQF1'

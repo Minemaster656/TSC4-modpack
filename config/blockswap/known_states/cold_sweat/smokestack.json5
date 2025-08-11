@@ -1,0 +1,1235 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "up",
+			"end": "true",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "up",
+			"end": "true",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "down",
+			"end": "true",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "down",
+			"end": "true",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"end": "true",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"end": "true",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"end": "true",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"end": "true",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"end": "true",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"end": "true",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"end": "true",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"end": "true",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "bend",
+			"end": "true",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "bend",
+			"end": "true",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "up",
+			"end": "false",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "up",
+			"end": "false",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "down",
+			"end": "false",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "down",
+			"end": "false",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"end": "false",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"end": "false",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"end": "false",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"end": "false",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"end": "false",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"end": "false",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"end": "false",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"end": "false",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "bend",
+			"end": "false",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "bend",
+			"end": "false",
+			"encased": "true",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "up",
+			"end": "true",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "up",
+			"end": "true",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "down",
+			"end": "true",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "down",
+			"end": "true",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"end": "true",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"end": "true",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"end": "true",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"end": "true",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"end": "true",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"end": "true",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"end": "true",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"end": "true",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "bend",
+			"end": "true",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "bend",
+			"end": "true",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "up",
+			"end": "false",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "up",
+			"end": "false",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "down",
+			"end": "false",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "down",
+			"end": "false",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"end": "false",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"end": "false",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"end": "false",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"end": "false",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"end": "false",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"end": "false",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"end": "false",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"end": "false",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "bend",
+			"end": "false",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "bend",
+			"end": "false",
+			"encased": "false",
+			"base": "true"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "up",
+			"end": "true",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "up",
+			"end": "true",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "down",
+			"end": "true",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "down",
+			"end": "true",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"end": "true",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"end": "true",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"end": "true",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"end": "true",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"end": "true",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"end": "true",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"end": "true",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"end": "true",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "bend",
+			"end": "true",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "bend",
+			"end": "true",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "up",
+			"end": "false",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "up",
+			"end": "false",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "down",
+			"end": "false",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "down",
+			"end": "false",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"end": "false",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"end": "false",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"end": "false",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"end": "false",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"end": "false",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"end": "false",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"end": "false",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"end": "false",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "bend",
+			"end": "false",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "bend",
+			"end": "false",
+			"encased": "true",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "up",
+			"end": "true",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "up",
+			"end": "true",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "down",
+			"end": "true",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "down",
+			"end": "true",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"end": "true",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"end": "true",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"end": "true",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"end": "true",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"end": "true",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"end": "true",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"end": "true",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"end": "true",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "bend",
+			"end": "true",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "bend",
+			"end": "true",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "up",
+			"end": "false",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "down",
+			"end": "false",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "down",
+			"end": "false",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"end": "false",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"end": "false",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"end": "false",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"end": "false",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"end": "false",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"end": "false",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"end": "false",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"end": "false",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "bend",
+			"end": "false",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "bend",
+			"end": "false",
+			"encased": "false",
+			"base": "false"
+		},
+		"Name": "cold_sweat:smokestack"
+	}
+]

@@ -1,0 +1,13 @@
+filename = 'forge-dungeonsdelight-1.20.1-1.2.2.jar'
+name = "Dungeon's Delight"
+side = 'both'
+
+[download]
+hash = '3ea5ad1be7379ee471c4aebe0a88a574ced852ba4bfdafa4638d5a78f21a124494a1c1de5aa3903aa514f2eca978fb932acff78052d5f3603ab260df1494b268'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qPfNr476/versions/kobYTRGO/forge-dungeonsdelight-1.20.1-1.2.2.jar'
+
+[update.modrinth]
+mod-id = 'qPfNr476'
+version = 'kobYTRGO'

@@ -1,0 +1,13 @@
+filename = 'create_sheets_to_ingots-1.0.0-forge-1.20.1.jar'
+name = 'Create Sheets to Ingots'
+side = 'both'
+
+[download]
+hash = '9a900cba82d2682c50910ea30ed114f4403ded1c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5554546
+project-id = 1068410

@@ -1,0 +1,646 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "base",
+			"age": "0"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle",
+			"age": "0"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle_sprout",
+			"age": "0"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "top",
+			"age": "0"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "base",
+			"age": "1"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle",
+			"age": "1"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle_sprout",
+			"age": "1"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "top",
+			"age": "1"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "bud",
+			"age": "1"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "base",
+			"age": "2"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle",
+			"age": "2"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle_sprout",
+			"age": "2"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "top",
+			"age": "2"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "bud",
+			"age": "2"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "base",
+			"age": "3"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle",
+			"age": "3"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle_sprout",
+			"age": "3"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "top",
+			"age": "3"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "bud",
+			"age": "3"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "base",
+			"age": "4"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle",
+			"age": "4"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle_sprout",
+			"age": "4"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "top",
+			"age": "4"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "bud",
+			"age": "4"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "base",
+			"age": "5"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle",
+			"age": "5"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle_sprout",
+			"age": "5"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "top",
+			"age": "5"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "bud",
+			"age": "5"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "base",
+			"age": "6"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle",
+			"age": "6"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle_sprout",
+			"age": "6"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "top",
+			"age": "6"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "bud",
+			"age": "6"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "base",
+			"age": "7"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle",
+			"age": "7"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle_sprout",
+			"age": "7"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "top",
+			"age": "7"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "bud",
+			"age": "7"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "base",
+			"age": "8"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle",
+			"age": "8"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle_sprout",
+			"age": "8"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "top",
+			"age": "8"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "bud",
+			"age": "8"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "base",
+			"age": "9"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle",
+			"age": "9"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle_sprout",
+			"age": "9"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "top",
+			"age": "9"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "bud",
+			"age": "9"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "base",
+			"age": "10"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle",
+			"age": "10"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle_sprout",
+			"age": "10"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "top",
+			"age": "10"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "bud",
+			"age": "10"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "base",
+			"age": "11"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle",
+			"age": "11"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle_sprout",
+			"age": "11"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "top",
+			"age": "11"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "bud",
+			"age": "11"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "base",
+			"age": "12"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle",
+			"age": "12"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle_sprout",
+			"age": "12"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "top",
+			"age": "12"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "bud",
+			"age": "12"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "base",
+			"age": "13"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle",
+			"age": "13"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle_sprout",
+			"age": "13"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "top",
+			"age": "13"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "bud",
+			"age": "13"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "base",
+			"age": "14"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle",
+			"age": "14"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle_sprout",
+			"age": "14"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "top",
+			"age": "14"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "bud",
+			"age": "14"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "base",
+			"age": "15"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle",
+			"age": "15"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "middle_sprout",
+			"age": "15"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "top",
+			"age": "15"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"section": "bud",
+			"age": "15"
+		},
+		"Name": "cold_sweat:soul_stalk"
+	}
+]

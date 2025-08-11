@@ -1,0 +1,221 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"lit": "true",
+			"facing": "north"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"lit": "true",
+			"facing": "north"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"lit": "false",
+			"facing": "north"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"lit": "true",
+			"facing": "east"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"lit": "true",
+			"facing": "east"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"lit": "false",
+			"facing": "east"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"lit": "false",
+			"facing": "east"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"lit": "true",
+			"facing": "south"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"lit": "true",
+			"facing": "south"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"lit": "false",
+			"facing": "south"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"lit": "false",
+			"facing": "south"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"lit": "true",
+			"facing": "west"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"lit": "true",
+			"facing": "west"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"lit": "false",
+			"facing": "west"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"lit": "false",
+			"facing": "west"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"lit": "true",
+			"facing": "up"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"lit": "true",
+			"facing": "up"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"lit": "false",
+			"facing": "up"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"lit": "false",
+			"facing": "up"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"lit": "true",
+			"facing": "down"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"lit": "true",
+			"facing": "down"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"lit": "false",
+			"facing": "down"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"lit": "false",
+			"facing": "down"
+		},
+		"Name": "refurbished_furniture:cherry_dark_ceiling_fan"
+	}
+]

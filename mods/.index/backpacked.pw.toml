@@ -1,0 +1,13 @@
+filename = 'backpacked-forge-1.20.1-3.0.0-beta.9.jar'
+name = 'Backpacked'
+side = 'both'
+
+[download]
+hash = 'afd733b5d589520d7698ec1bf1afb39f03e0d740'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5813547
+project-id = 352835

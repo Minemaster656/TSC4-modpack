@@ -1,0 +1,806 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "2D7BF9B630080BE8"
+	group: ""
+	icon: {
+		Count: 1
+		id: "createbigcannons:autocannon_cartridge"
+		tag: {
+			Projectile: {
+				Count: 1b
+				id: "createbigcannons:ap_autocannon_round"
+			}
+		}
+	}
+	id: "2D7BF9B630080BE8"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Создайте слитки &lчугуна&r путём спрессовывания железа с нагревом"]
+			id: "277E19D82103B7E9"
+			rewards: [
+				{
+					id: "2985D31AD40290E4"
+					item: "createbigcannons:molten_cast_iron_bucket"
+					type: "item"
+				}
+				{
+					id: "369CB23D0D9E7076"
+					type: "xp"
+					xp: 3
+				}
+			]
+			subtitle: "Это база"
+			tasks: [{
+				count: 16L
+				id: "70F3FE7BAC81E315"
+				item: "createbigcannons:cast_iron_ingot"
+				type: "item"
+			}]
+			title: "Я ебал чугун"
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["277E19D82103B7E9"]
+			description: ["Создайте слиток &lстали&r, сплавив в котле уголь и железо"]
+			id: "0852312D0D6EA370"
+			rewards: [
+				{
+					id: "5D77EA773A31EF92"
+					item: "createbigcannons:molten_steel_bucket"
+					type: "item"
+				}
+				{
+					id: "5B5EDDBC2F6D3A1F"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Младший брат"
+			tasks: [{
+				count: 16L
+				id: "3F03DA19E274D126"
+				item: "alloyed:steel_ingot"
+				type: "item"
+			}]
+			title: "Брат по углероду"
+			x: -3.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["277E19D82103B7E9"]
+			description: ["Создайте слиток &lбронзы&r, сплавив в котле медь, цинк и незераковую муку "]
+			id: "45CE5C6E2AB8B40F"
+			rewards: [
+				{
+					id: "2CA6E2A775B23289"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "4323452B225097E6"
+					item: "createbigcannons:molten_bronze_bucket"
+					type: "item"
+				}
+			]
+			subtitle: "Оно нам не для колокольчиков"
+			tasks: [{
+				count: 16L
+				id: "6D9C3B4985B8C0E3"
+				item: "alloyed:bronze_ingot"
+				type: "item"
+			}]
+			title: "Бронзовый век"
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["45CE5C6E2AB8B40F"]
+			id: "5B87DAA27BB1D0CA"
+			rewards: [
+				{
+					id: "663DF3C0E0F0DA15"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "7BB5C347B226CB51"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x10"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 4b
+									Slot: 0
+									id: "createbigcannons:casting_sand"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Переплавим это в пушку?"
+			tasks: [{
+				id: "215BE781079685BB"
+				item: "alloyed:bronze_bell"
+				type: "item"
+			}]
+			title: "Дзынь-дзынь"
+			x: -5.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["277E19D82103B7E9"]
+			description: ["Создайте слиток &lнезер-стали&r, сплавив чугун или сталь с незеритовым скрапом"]
+			id: "4CB9F79D32047600"
+			rewards: [
+				{
+					id: "0EBB2CE89A5A63F4"
+					item: "createbigcannons:molten_nethersteel_bucket"
+					type: "item"
+				}
+				{
+					id: "73016E628AFD2240"
+					type: "xp"
+					xp: 10
+				}
+			]
+			subtitle: "Давай, давай, переводи незерит"
+			tasks: [{
+				count: 16L
+				id: "649DE67FCB888151"
+				item: "createbigcannons:nethersteel_ingot"
+				type: "item"
+			}]
+			title: "Незер-хрень"
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0852312D0D6EA370"]
+			description: ["Создайте комплект &lстального вооружения&r. По характеристикам оно стоит между алмазным и железным."]
+			id: "38829EEC584ECE1A"
+			rewards: [
+				{
+					id: "50B5481916516C5E"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "0E83FDE0F1BB9230"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x12"
+						tag: {
+							Items: {
+								Items: [
+									{
+										Count: 1b
+										Slot: 0
+										id: "supplementaries:dragon_banner_pattern"
+									}
+									{
+										Count: 1b
+										Slot: 1
+										id: "supplementaries:dragon_banner_pattern"
+									}
+									{
+										Count: 1b
+										Slot: 2
+										id: "supplementaries:dragon_banner_pattern"
+									}
+								]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Извинись перед рыцарем!"
+			tasks: [
+				{
+					id: "2ADA1E3ADD821A48"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "alloyed:steel_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0D892EB41C664716"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "alloyed:steel_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "47048CD8394AB00A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "alloyed:steel_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2E0513BAA4144511"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "alloyed:steel_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "372A6D727C3546CC"
+					item: {
+						Count: 1
+						id: "alloyed:steel_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Ты что, рыцаря нахуй послал?!"
+			x: -5.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["277E19D82103B7E9"]
+			id: "3C75D6D4E6CE883B"
+			rewards: [
+				{
+					id: "2FC2DA23D4C488CC"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "22A33CBA2C9C05DC"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x8"
+						tag: {
+							Items: {
+								Items: [
+									{
+										Count: 4b
+										Slot: 0
+										id: "scguns:compact_copper_round"
+									}
+									{
+										Count: 4b
+										Slot: 1
+										id: "scguns:standard_copper_round"
+									}
+								]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Ну, или пушка"
+			tasks: [{
+				id: "5DB6B34F33610380"
+				item: "createbigcannons:medium_cast_mould"
+				type: "item"
+			}]
+			title: "Вылитый я"
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["277E19D82103B7E9"]
+			description: ["Создайте &lпесок для литья&r. для осуществления литья частей пушки поставьте заготовку, вокруг неё расположите 8 блоков песка для литья и затем нажмите ПКМ песком по заготовке. нажмите ПКМ второй раз, чтобы вытащить заготовку. Заливайте! "]
+			id: "210BCE4B84816739"
+			rewards: [
+				{
+					id: "1692F45307054744"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "4F3FB50AA8B2BD62"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x10"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 8b
+									Slot: 0
+									id: "create:fluid_pipe"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			subtitle: "Скоро будет не до смеха"
+			tasks: [{
+				count: 9L
+				id: "2ACCE42FC803A6D3"
+				item: "createbigcannons:casting_sand"
+				type: "item"
+			}]
+			title: "...А теперь песок в сандали..."
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"5BA7CCE659FD9AF9"
+				"7CA33F18FE76BCA4"
+			]
+			description: ["Создайте все возможные виды &lснарядов&r для пушек"]
+			id: "1F4F930B3A4B4445"
+			rewards: [
+				{
+					id: "3323461F19FC0F40"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x12"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 4b
+									Slot: 0
+									id: "alloyed:steel_block"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3C7622F6F02D5C05"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "Шойгу, Герасимов! Где сука мои боеприпасы?"
+			tasks: [
+				{
+					id: "1F219F4B68B9DF2D"
+					item: {
+						Count: 1
+						id: "createbigcannons:smoke_shell"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "1AC50C7D2D61709F"
+					item: {
+						Count: 1
+						id: "createbigcannons:shrapnel_shell"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "0939FE5A1F518D91"
+					item: {
+						Count: 1
+						id: "createbigcannons:ap_shell"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "158C8D396C0EEF56"
+					item: {
+						Count: 1
+						id: "createbigcannons:he_shell"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "57D7FB8F61809150"
+					item: "createbigcannons:bag_of_grapeshot"
+					type: "item"
+				}
+				{
+					id: "64390F69ADEB23B2"
+					item: "createbigcannons:mortar_stone"
+					type: "item"
+				}
+				{
+					id: "788F776873810A9E"
+					item: {
+						Count: 1
+						id: "createbigcannons:ap_shot"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "3E44E5F40B0B96D5"
+					item: {
+						Count: 1
+						id: "createbigcannons:solid_shot"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "5839F00F6AB2E966"
+					item: {
+						Count: 1
+						id: "createbigcannons:powder_charge"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "У нас нехватка боеприпасов! 70%"
+			x: 3.5d
+			y: -5.5d
+		}
+		{
+			dependencies: [
+				"210BCE4B84816739"
+				"3C75D6D4E6CE883B"
+			]
+			description: ["Создайте &lнепросверленную заготовку&r любой части пушки"]
+			id: "470DEF2BA0AF20A4"
+			rewards: [
+				{
+					id: "235349173007157D"
+					type: "xp"
+					xp: 6
+				}
+				{
+					id: "115AB69B6AD9BB11"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x12"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 8b
+									Slot: 0
+									id: "create:andesite_alloy"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Сначала соседи, потом и весь мир"
+			tasks: [{
+				id: "1C92F1A7026CBB5E"
+				item: "createbigcannons:unbored_cast_iron_cannon_chamber"
+				type: "item"
+			}]
+			title: "Милитаризация"
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["470DEF2BA0AF20A4"]
+			description: ["Создайте &lпушечную дрель&r, чтобы превратить ваши заготовки в уже почти готовые к использованию части оружия"]
+			id: "744966894BDDB0F0"
+			rewards: [{
+				id: "46025FA1D0BA7914"
+				type: "xp"
+				xp: 8
+			}]
+			subtitle: "((("
+			tasks: [{
+				id: "48E3BA66C3CC9AFE"
+				item: "createbigcannons:cannon_drill"
+				type: "item"
+			}]
+			title: "Дырявый"
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"0852312D0D6EA370"
+				"744966894BDDB0F0"
+			]
+			description: ["Создайте &lнаращиватель слоёв&r, чтобы получить части нужной толщины для пушек из стали и незер-стали. Полученную частб пушки нужно будет поместить на блок ниже потока горячего воздуха, создаваемого вентилятором и лавой, чтобы сплавить части"]
+			id: "668CD1B3472ACF2F"
+			rewards: [
+				{
+					id: "165E55FDF951FB69"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "3D98732CA2DDA6A8"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x8"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 4b
+									Slot: 0
+									id: "create:propeller"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Хотите нарастить стальные губы?"
+			tasks: [{
+				id: "386AC0002A37FC11"
+				item: "createbigcannons:cannon_builder"
+				type: "item"
+			}]
+			title: "Эх, мода..."
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["744966894BDDB0F0"]
+			id: "5BA7CCE659FD9AF9"
+			rewards: [
+				{
+					id: "6000E5DA6223FE6E"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 2
+					id: "1189129C88C42317"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x12"
+						tag: {
+							Items: {
+								Items: [
+									{
+										Count: 1b
+										Slot: 0
+										id: "createbigcannons:mortar_stone"
+									}
+									{
+										Count: 2b
+										Slot: 1
+										id: "createbigcannons:powder_charge"
+										tag: { }
+									}
+								]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "И буль кого-то после этого..."
+			tasks: [
+				{
+					count: 2L
+					id: "409E65A820956F15"
+					item: "createbigcannons:cast_iron_cannon_chamber"
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "02F27051C464F380"
+					item: "createbigcannons:cast_iron_cannon_barrel"
+					type: "item"
+				}
+				{
+					id: "0E91D3F26AD5900A"
+					item: "createbigcannons:cannon_mount_extension"
+					type: "item"
+				}
+				{
+					id: "03F7067A371494E0"
+					item: "createbigcannons:fixed_cannon_mount"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "7CF34D9293C27770"
+					item: "minecraft:lever"
+					type: "item"
+				}
+				{
+					id: "14DF51D9D530DB1D"
+					item: "createbigcannons:cannon_mount"
+					type: "item"
+				}
+			]
+			title: "Комплект тихони"
+			x: 3.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["5BA7CCE659FD9AF9"]
+			description: ["Создайте &lтолкатель снарядов&r и &lбанник&r, чтобы иметь возможность заталкивать в пушку снаряды и вынимать их"]
+			id: "7CA33F18FE76BCA4"
+			rewards: [
+				{
+					id: "7DCCDCE9E3A68EA3"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "7CDFC8AB3A701378"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x12"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 4b
+									Slot: 0
+									id: "createbigcannons:pair_of_cannon_wheels"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Хочу, чтобы меня привязали к кровати..."
+			tasks: [
+				{
+					id: "732D38D03D40128F"
+					item: "createbigcannons:ram_rod"
+					type: "item"
+				}
+				{
+					id: "2E9B380E9F8A963E"
+					item: "createbigcannons:worm"
+					type: "item"
+				}
+			]
+			title: "Сунул-высунул"
+			x: 6.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["5BA7CCE659FD9AF9"]
+			description: ["Создайте &lпушечный лафет&r, чтобы дать своим орудиям мобильность"]
+			id: "0F0E3A4517AD1714"
+			rewards: [
+				{
+					id: "1ADEC2BDC77158C0"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "67671759760ED812"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x8"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 8b
+									Slot: 0
+									id: "create:andesite_alloy"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Смерть на колёсиках"
+			tasks: [{
+				id: "2FC5894249278BBB"
+				item: "createbigcannons:cannon_carriage"
+				type: "item"
+			}]
+			title: "А чё, так можно было что-ли?"
+			x: 5.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5BA7CCE659FD9AF9"]
+			description: ["Создайте &lскорострельный затвор чугунной пушки&r, чтобы заряжать её сзади"]
+			icon: "createbigcannons:cast_iron_quickfiring_breech"
+			id: "2C772B9D9BCE2BB9"
+			rewards: [{
+				id: "34ECCE9CB5A8DDC6"
+				type: "xp"
+				xp: 8
+			}]
+			subtitle: "На перезарядке"
+			tasks: [{
+				icon: "createbigcannons:cast_iron_quickfiring_breech"
+				id: "143F66C9E9DDE62D"
+				observe_type: 0
+				timer: 0L
+				title: "Создайте Скорострельный затвор чугунной пушки"
+				to_observe: "createbigcannons:cast_iron_quickfiring_breech"
+				type: "observation"
+			}]
+			title: "Скорострел"
+			x: 5.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2C772B9D9BCE2BB9"]
+			description: ["&lВинтовой затвор&r лучше казёной части, иначе он не стоял бы в квестах после неё"]
+			icon: "createbigcannons:steel_screw_breech"
+			id: "41C01E5CA7BF1F24"
+			rewards: [{
+				id: "63C7A9FEA5F520B2"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "То же, но для стальной пушки"
+			tasks: [{
+				icon: "createbigcannons:steel_screw_breech"
+				id: "2BE60C8FFF7A629F"
+				observe_type: 0
+				timer: 0L
+				title: "Создайте Винтовой затвор стальной пушки"
+				to_observe: "createbigcannons:steel_screw_breech"
+				type: "observation"
+			}]
+			title: "Надо подкачаться"
+			x: 7.5d
+			y: -2.5d
+		}
+	]
+	subtitle: [
+		"Заряди им!"
+		"By Griboyed"
+	]
+	title: "Создаём большие стволы?"
+}

@@ -1,0 +1,1059 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "north"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "north"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "north"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "north"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "north"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "north"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "north"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "north"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "north"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "north"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "north"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "north"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "north"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "north"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "north"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "east"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "east"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "east"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "east"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "east"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "east"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "east"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "east"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "east"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "east"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "east"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "east"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "east"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "east"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "east"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "east"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "south"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "south"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "south"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "south"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "south"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "south"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "south"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "south"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "south"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "south"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "south"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "south"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "south"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "south"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "south"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "south"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "west"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "west"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "west"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "west"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "west"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "west"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "west"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "west"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "west"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "west"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "west"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "west"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "west"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "west"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "west"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "west"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "up"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "up"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "up"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "up"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "up"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "up"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "up"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "up"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "up"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "up"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "up"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "up"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "up"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "up"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "up"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "up"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "down"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "down"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "down"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "true",
+			"facing": "down"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "down"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "down"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "down"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "true",
+			"facing": "down"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "down"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "down"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "down"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "true",
+			"has_block_in_front": "false",
+			"facing": "down"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "down"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "true",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "down"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "down"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"open": "false",
+			"locked": "false",
+			"has_block_in_front": "false",
+			"facing": "down"
+		},
+		"Name": "create_hypertube:hypertube_entrance"
+	}
+]

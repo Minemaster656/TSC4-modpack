@@ -1,0 +1,964 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "true",
+			"facing": "north",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "true",
+			"facing": "north",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "true",
+			"facing": "north",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "true",
+			"facing": "north",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "false",
+			"facing": "north",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "false",
+			"facing": "north",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "false",
+			"facing": "north",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "true",
+			"facing": "east",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "true",
+			"facing": "east",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "true",
+			"facing": "east",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "true",
+			"facing": "east",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "false",
+			"facing": "east",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "false",
+			"facing": "east",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "false",
+			"facing": "east",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "false",
+			"facing": "east",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "true",
+			"facing": "south",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "true",
+			"facing": "south",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "true",
+			"facing": "south",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "true",
+			"facing": "south",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "false",
+			"facing": "south",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "false",
+			"facing": "south",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "false",
+			"facing": "south",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "false",
+			"facing": "south",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "true",
+			"facing": "west",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "true",
+			"facing": "west",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "true",
+			"facing": "west",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "true",
+			"facing": "west",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "false",
+			"facing": "west",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "false",
+			"facing": "west",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "false",
+			"facing": "west",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "false",
+			"facing": "west",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "true",
+			"facing": "up",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "true",
+			"facing": "up",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "true",
+			"facing": "up",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "true",
+			"facing": "up",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "false",
+			"facing": "up",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "false",
+			"facing": "up",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "false",
+			"facing": "up",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "false",
+			"facing": "up",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "true",
+			"facing": "down",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "true",
+			"facing": "down",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "true",
+			"facing": "down",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "true",
+			"facing": "down",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "false",
+			"facing": "down",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "false",
+			"facing": "down",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "false",
+			"facing": "down",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "false",
+			"facing": "down",
+			"axis_along_first": "true"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "true",
+			"facing": "north",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "true",
+			"facing": "north",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "true",
+			"facing": "north",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "true",
+			"facing": "north",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "false",
+			"facing": "north",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "false",
+			"facing": "north",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "false",
+			"facing": "north",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "false",
+			"facing": "north",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "true",
+			"facing": "east",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "true",
+			"facing": "east",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "true",
+			"facing": "east",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "true",
+			"facing": "east",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "false",
+			"facing": "east",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "false",
+			"facing": "east",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "false",
+			"facing": "east",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "false",
+			"facing": "east",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "true",
+			"facing": "south",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "true",
+			"facing": "south",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "true",
+			"facing": "south",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "true",
+			"facing": "south",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "false",
+			"facing": "south",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "false",
+			"facing": "south",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "false",
+			"facing": "south",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "false",
+			"facing": "south",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "true",
+			"facing": "west",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "true",
+			"facing": "west",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "true",
+			"facing": "west",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "true",
+			"facing": "west",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "false",
+			"facing": "west",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "false",
+			"facing": "west",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "false",
+			"facing": "west",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "false",
+			"facing": "west",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "true",
+			"facing": "up",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "true",
+			"facing": "up",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "true",
+			"facing": "up",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "true",
+			"facing": "up",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "false",
+			"facing": "up",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "false",
+			"facing": "up",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "false",
+			"facing": "up",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "false",
+			"facing": "up",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "true",
+			"facing": "down",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "true",
+			"facing": "down",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "true",
+			"facing": "down",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "true",
+			"facing": "down",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "unactivated",
+			"powered": "false",
+			"facing": "down",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "activated",
+			"powered": "false",
+			"facing": "down",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "moving",
+			"powered": "false",
+			"facing": "down",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extended",
+			"powered": "false",
+			"facing": "down",
+			"axis_along_first": "false"
+		},
+		"Name": "createbigcannons:cannon_builder"
+	}
+]

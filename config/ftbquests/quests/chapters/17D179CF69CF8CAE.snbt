@@ -1,0 +1,745 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "17D179CF69CF8CAE"
+	group: ""
+	icon: "kubejs:sealed_mechanism"
+	id: "17D179CF69CF8CAE"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "25417DE92978F2C0"
+			rewards: [{
+				id: "4331FB27A641B512"
+				type: "xp"
+				xp: 1
+			}]
+			subtitle: "Наконец-то индустриальный отсос"
+			tasks: [{
+				id: "61EE542B7EC2EAA8"
+				item: "thermal:device_tree_extractor"
+				type: "item"
+			}]
+			title: "Экстракция"
+			x: -15.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["25417DE92978F2C0"]
+			hide_dependency_lines: false
+			id: "0A57F9D5C5CEC124"
+			rewards: [
+				{
+					id: "7C2E7B42CC319000"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x8"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 8b
+									Slot: 0
+									id: "thermal:cured_rubber"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1E8DD994BF6A97C1"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Резиновая Зиня"
+			tasks: [{
+				id: "6609DE2C38AF7FC5"
+				item: "thermal:cured_rubber"
+				type: "item"
+			}]
+			title: "Резинотрест"
+			x: -14.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0A57F9D5C5CEC124"]
+			id: "26B0C96628338D7E"
+			min_required_dependencies: 1
+			rewards: [
+				{
+					id: "2224857464B8B5F0"
+					item: {
+						Count: 1
+						id: "supplementaries:present_green"
+						tag: {
+							BlockEntityTag: {
+								ForgeCaps: { }
+								Items: [{
+									Count: 4b
+									Slot: 0b
+									id: "kubejs:sealed_mechanism"
+								}]
+								Recipient: "@e"
+								Sender: "IlyaDTG"
+								id: "supplementaries:present"
+							}
+							display: {
+								Lore: ["\"(+NBT)\""]
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2172550211AFEA08"
+					type: "xp"
+					xp: 1
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			subtitle: "Время строить самогонный аппарат:3"
+			tasks: [{
+				id: "34555D67D6C6306C"
+				item: "kubejs:sealed_mechanism"
+				type: "item"
+			}]
+			title: "Герметичная кинетика"
+			x: -12.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["26B0C96628338D7E"]
+			id: "5F123F999AFD3015"
+			rewards: [
+				{
+					id: "25C2716E14FB084E"
+					item: {
+						Count: 1
+						id: "minecraft:written_book"
+						tag: {
+							AntiqueInk: 1b
+							author: "Карл Маркс"
+							generation: 3
+							pages: ["{\"font\":\"supplementaries:antiquable\",\"text\":\"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\"}"]
+							resolved: 1b
+							title: "Капитал"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2B41CFB5A70F363E"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Передовой способ распространения пропаганды, напечатай МэйнКампф - сам!"
+			tasks: [{
+				id: "1A3AD6A4FE5A65B8"
+				item: "create_enchantment_industry:printer"
+				type: "item"
+			}]
+			title: "Печать"
+			x: -13.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["26B0C96628338D7E"]
+			id: "242AFBC2B0B8799D"
+			rewards: [
+				{
+					id: "7AD2EAAE6AE3417A"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x12"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 1b
+									Slot: 0
+									id: "minecraft:potion"
+									tag: {
+										Potion: "minecraft:strong_healing"
+									}
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1B2F7EDDA0B3A976"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Капает на мозги"
+			tasks: [{
+				id: "6709F881F472EDCC"
+				item: "create:spout"
+				type: "item"
+			}]
+			title: "Пипетка"
+			x: -13.5d
+			y: 0.0d
+		}
+		{
+			id: "1150F61E8CA65790"
+			rewards: [
+				{
+					id: "041B7645826EB47E"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x8"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 1b
+									Slot: 0
+									id: "miners_delight:copper_carrot"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "376E5A6A5AE3BB5C"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Медные коробочки"
+			tasks: [{
+				count: 8L
+				id: "60EA2ED5FF1A00A7"
+				item: "create:copper_casing"
+				type: "item"
+			}]
+			title: "Медная эра"
+			x: -8.0d
+			y: -0.5d
+		}
+		{
+			id: "1F1F9F7FA5F538B1"
+			rewards: [
+				{
+					id: "6C053A0FC165DE5C"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x10"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 16b
+									Slot: 0
+									id: "minecraft:potion"
+									tag: {
+										Potion: "minecraft:water"
+										Purity: 3
+									}
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "10325DF9369B1F0D"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Чистая вода...Привилегия"
+			tasks: [{
+				id: "5BBE85A0CE6C179A"
+				item: "thirst:sand_filter"
+				type: "item"
+			}]
+			title: "Фильтрация"
+			x: -7.5d
+			y: -3.5d
+		}
+		{
+			id: "16087B678125121E"
+			rewards: [
+				{
+					id: "5BD7F97B13A80029"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x12"
+						tag: {
+							Items: {
+								Items: [
+									{
+										Count: 1b
+										Slot: 0
+										id: "minecraft:leather_boots"
+										tag: {
+											Damage: 0
+											display: {
+												color: 3949738
+											}
+										}
+									}
+									{
+										Count: 1b
+										Slot: 1
+										id: "minecraft:leather_leggings"
+										tag: {
+											Damage: 0
+											display: {
+												color: 3949738
+											}
+										}
+									}
+									{
+										Count: 1b
+										Slot: 2
+										id: "minecraft:leather_chestplate"
+										tag: {
+											Damage: 0
+											Trim: {
+												material: "minecraft:redstone"
+												pattern: "minecraft:wild"
+											}
+											display: {
+												color: 3949738
+											}
+										}
+									}
+									{
+										Count: 1b
+										Slot: 3
+										id: "minecraft:leather_helmet"
+										tag: {
+											Damage: 0
+											display: {
+												color: 11546150
+											}
+										}
+									}
+								]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5F1F2DE5D40E4A62"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Итсэ ми Маррэо"
+			tasks: [{
+				count: 16L
+				id: "63383CAE6C6498E6"
+				item: "create:fluid_pipe"
+				type: "item"
+			}]
+			title: "Водопровод"
+			x: -8.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["26B0C96628338D7E"]
+			id: "7F6A114572AFEC1C"
+			rewards: [
+				{
+					id: "739B5E7C911AAE2B"
+					item: {
+						Count: 1
+						id: "createdieselgenerators:canister"
+						tag: {
+							BlockEntityTag: {
+								Tanks: [{
+									Level: {
+										Speed: 0.25f
+										Target: 1.0f
+										Value: 1.0f
+									}
+									TankContent: {
+										Amount: 4000
+										FluidName: "sliceanddice:fertilizer"
+									}
+								}]
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "49B9188957D7878B"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Позволяет удобрять растения"
+			tasks: [{
+				id: "04086CF172A06C9F"
+				item: "sliceanddice:sprinkler"
+				type: "item"
+			}]
+			title: "Разбрызгиватель"
+			x: -10.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["26B0C96628338D7E"]
+			id: "639FF8A2FD5197E6"
+			rewards: [
+				{
+					id: "40B3399F977D7CEF"
+					item: {
+						Count: 1
+						id: "etched:etched_music_disc"
+						tag: {
+							DiscColor: 5329233
+							LabelColor: {
+								Primary: 13915937
+								Secondary: 13915937
+							}
+							Music: {
+								Author: "C451"
+								Title: "{\"text\":\"Fahrenheit\"}"
+								Url: "https://drive.usercontent.google.com/u/0/uc?id=1n36Xl8eiEbkFExukm-r4ykVu_YOqQnLY&export=download"
+							}
+							Pattern: 3b
+							RepairCost: 0
+							display: {
+								Name: "{\"text\":\"Music Disc\"}"
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "44B681297FC9827B"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "\"Жечь было удовольствием\""
+			tasks: [{
+				id: "6EFFC4BBD15BE4F4"
+				item: {
+					Count: 1
+					id: "createdieselgenerators:chemical_sprayer_lighter"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "451 градус"
+			x: -9.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["26B0C96628338D7E"]
+			id: "252BB570FB35CE5D"
+			rewards: [
+				{
+					id: "65F82088BFD8E154"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "create:copper_diving_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "520C7EFFEDEEF027"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Теперь воздух всегда с собой"
+			tasks: [
+				{
+					id: "5C5E5DA8B694D2FF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "create:copper_backtank"
+						tag: {
+							Air: 900
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4D5F5C8441D6095B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "create:copper_diving_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Набор для дайвинга"
+			x: -10.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["26B0C96628338D7E"]
+			id: "7251D2474B1634A3"
+			rewards: [
+				{
+					id: "0BF82FBD2674C224"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x12"
+						tag: {
+							Items: {
+								Items: [
+									{
+										Count: 1b
+										Slot: 0
+										id: "dungeonsdelight:bloated_baked_potato"
+									}
+									{
+										Count: 1b
+										Slot: 1
+										id: "minecraft:poisonous_potato"
+									}
+									{
+										Count: 1b
+										Slot: 2
+										id: "minecraft:baked_potato"
+									}
+									{
+										Count: 1b
+										Slot: 3
+										id: "farmersdelight:stuffed_potato"
+									}
+									{
+										Count: 1b
+										Slot: 4
+										id: "minecraft:potato"
+									}
+								]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2D7E7375046F6FAE"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Не требуют разрешения"
+			tasks: [{
+				id: "4594EA57B2DB09CD"
+				item: {
+					Count: 1
+					id: "create:potato_cannon"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Белорусские технологии"
+			x: -9.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["26B0C96628338D7E"]
+			id: "089DD334CB5B271F"
+			rewards: [
+				{
+					id: "16571299C9658B57"
+					item: {
+						Count: 1
+						id: "createdieselgenerators:canister"
+						tag: {
+							BlockEntityTag: {
+								Tanks: [{
+									Level: {
+										Speed: 0.25f
+										Target: 1.0f
+										Value: 1.0f
+									}
+									TankContent: {
+										Amount: 4000
+										FluidName: "createdieselgenerators:ethanol"
+									}
+								}]
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "71E08077B29539B4"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Куда пропал Лоракс...."
+			tasks: [{
+				id: "01AEA85D482BD551"
+				item: "createdieselgenerators:diesel_engine"
+				type: "item"
+			}]
+			title: "Дизельпанк?"
+			x: -12.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["26B0C96628338D7E"]
+			id: "24C25983F3876D58"
+			rewards: [
+				{
+					id: "2FC75F6DC15AD821"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x8"
+						tag: {
+							Items: {
+								Items: [
+									{
+										Count: 1b
+										Slot: 0
+										id: "kubejs:kinetic_mechanism"
+									}
+									{
+										Count: 1b
+										Slot: 1
+										id: "kubejs:sealed_mechanism"
+									}
+									{
+										Count: 1b
+										Slot: 2
+										id: "create:precision_mechanism"
+									}
+								]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1168D5CC5F7807E4"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Почти возобновляемая энергия"
+			tasks: [{
+				id: "6693F1DFFCD5B709"
+				item: "create:steam_engine"
+				type: "item"
+			}]
+			title: "Cтимпанк?"
+			x: -12.0d
+			y: 0.0d
+		}
+		{
+			id: "3588D35A8B8C424E"
+			rewards: [{
+				id: "6B936205B22FAE78"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Высасыватель жизненной энергии"
+			tasks: [{
+				id: "6DEED069C4CFA70D"
+				item: "create_enchantment_industry:disenchanter"
+				type: "item"
+			}]
+			title: "Дементор"
+			x: -7.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["26B0C96628338D7E"]
+			id: "1A5A670DD5423BFA"
+			optional: true
+			rewards: [
+				{
+					id: "571DC27D343A4C5D"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x12"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 4b
+									Slot: 0
+									id: "farmersdelight:hot_cocoa"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5E9B9F6DEFE5987A"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Топливо...Необходимо"
+			tasks: [{
+				id: "39872444FB68A4E9"
+				item: "cold_sweat:hearth"
+				type: "item"
+			}]
+			title: "Фростпанк!"
+			x: -9.5d
+			y: -2.5d
+		}
+		{
+			id: "4275A6777C543B31"
+			rewards: [{
+				id: "3EDA3EAE0E8787B2"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "Стань Рокфеллером"
+			tasks: [{
+				id: "2BA1EF37F76C1E3B"
+				item: "createdieselgenerators:pumpjack_hole"
+				type: "item"
+			}]
+			title: "Standard Oil"
+			x: -7.5d
+			y: -1.5d
+		}
+	]
+	subtitle: ["Влажные дела"]
+	title: "Гидравлическая Механика"
+}

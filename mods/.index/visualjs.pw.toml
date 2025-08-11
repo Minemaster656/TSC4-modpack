@@ -1,0 +1,13 @@
+filename = 'VisualJS-1.1.0-forge.jar'
+name = 'VisualJS'
+side = 'both'
+
+[download]
+hash = '470070c15fe79c4b7b60cfec8babf98cc15bb65c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4973228
+project-id = 950400

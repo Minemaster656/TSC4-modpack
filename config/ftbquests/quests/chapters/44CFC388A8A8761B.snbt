@@ -1,0 +1,591 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "44CFC388A8A8761B"
+	group: ""
+	icon: "kubejs:radio_mechanism"
+	id: "44CFC388A8A8761B"
+	images: [
+		{
+			height: 1.5d
+			image: "kubejs:textures/ftb/create_radio_frame2.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -2.0d
+			y: -2.7d
+		}
+		{
+			height: 1.5d
+			image: "kubejs:textures/ftb/create_radio_frame.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 3.0d
+			y: -1.2d
+		}
+		{
+			height: 1.5d
+			image: "kubejs:textures/ftb/create_radio_frame3.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			height: 2.0d
+			image: "kubejs:textures/ftb/create_andesite_frame3.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.5d
+			image: "kubejs:textures/ftb/create_andesite_frame3.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			height: 1.5d
+			image: "kubejs:textures/ftb/create_andesite_frame2.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			height: 1.5d
+			image: "kubejs:textures/ftb/create_andesite_frame2.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -3.0d
+			y: 1.0d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["3A70675023AD6414"]
+			id: "01BBB80E21338A76"
+			rewards: [
+				{
+					id: "68F1388C1D463880"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_10x8"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 4b
+									Slot: 0
+									id: "kubejs:radio_mechanism"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "341C630FE9A94524"
+					type: "xp"
+					xp: 5
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			subtitle: "Передают сигнал"
+			tasks: [{
+				id: "5462AED4C55686AC"
+				item: "kubejs:radio_mechanism"
+				type: "item"
+			}]
+			title: "Радио детали"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "3A70675023AD6414"
+			rewards: [
+				{
+					id: "22697CD3FD34B86C"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x12"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 4b
+									Slot: 0
+									id: "nuka_cola_classic:classic_nuka_cola"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1496927B23E095B4"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Неоновый лампочки..."
+			tasks: [{
+				id: "182FFFEC67D76033"
+				item: "create:electron_tube"
+				type: "item"
+			}]
+			title: "Декопанк?!"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["01BBB80E21338A76"]
+			id: "49A259059456D9C8"
+			subtitle: "Лучше передаёт siegнал"
+			tasks: [{
+				id: "045AFBA37F66B58F"
+				item: "create:transmitter"
+				type: "item"
+			}]
+			title: "Важные детали"
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["01BBB80E21338A76"]
+			id: "6284EEDEDC2B4C10"
+			rewards: [{
+				id: "25E5C8AAE80577E0"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "Позволяет управлять аналоговыми экранами"
+			tasks: [{
+				id: "463538E90CAC4922"
+				item: "create:display_link"
+				type: "item"
+			}]
+			title: "Экранизация"
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["01BBB80E21338A76"]
+			id: "2DAF31BB659356ED"
+			rewards: [{
+				id: "1F50C3FD8474F456"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "Анализирует содержимое сети"
+			tasks: [{
+				id: "0127D76C7608FCE9"
+				item: "create:stock_link"
+				type: "item"
+			}]
+			title: "Кладовой"
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["01BBB80E21338A76"]
+			id: "35EF22ED3DB0CF29"
+			rewards: [{
+				id: "4B7DF856F8688BC1"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			subtitle: "Собери все!(пока что не выйдет)"
+			tasks: [
+				{
+					id: "79FA29973CCCB48F"
+					item: "create:factory_gauge"
+					type: "item"
+				}
+				{
+					id: "0342AF663F9783FB"
+					item: "extra_gauges:integer_gauge"
+					type: "item"
+				}
+				{
+					id: "317B7FB46DE3603C"
+					item: "extra_gauges:comparator_gauge"
+					type: "item"
+				}
+				{
+					id: "7BB98762B07C6848"
+					item: "extra_gauges:counter_gauge"
+					type: "item"
+				}
+				{
+					id: "15E2EBD3B3EBBA32"
+					item: "extra_gauges:logic_gauge"
+					type: "item"
+				}
+			]
+			title: "Пять камней бесконечности"
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["01BBB80E21338A76"]
+			id: "4C66CE48B7D78C1B"
+			rewards: [
+				{
+					id: "0B8F047C77544946"
+					item: "create_mobile_packages:portable_stock_ticker"
+					type: "item"
+				}
+				{
+					id: "15FFB427A06FAA6F"
+					item: {
+						Count: 1
+						id: "minecraft:purple_banner"
+						tag: {
+							BlockEntityTag: {
+								Patterns: [
+									{
+										Color: 11
+										Pattern: "hhb"
+									}
+									{
+										Color: 6
+										Pattern: "ms"
+									}
+									{
+										Color: 15
+										Pattern: "flo"
+									}
+									{
+										Color: 6
+										Pattern: "mc"
+									}
+								]
+								id: "minecraft:banner"
+							}
+							RepairCost: 0
+							display: {
+								Name: "{\"text\":\"Робо-Би\"}"
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "230D0CB2BF223ACE"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Это что за хуйня блять, я не буду это коментировать.БЛЕАТЬ"
+			tasks: [
+				{
+					id: "2FEA0EC37FFDFE08"
+					item: "create_mobile_packages:bee_port"
+					type: "item"
+				}
+				{
+					id: "7AAF3A69FB649922"
+					item: "create_mobile_packages:robo_bee"
+					type: "item"
+				}
+			]
+			title: "Робо-Би"
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["01BBB80E21338A76"]
+			id: "1883201D183FA33E"
+			rewards: [
+				{
+					id: "7F91B9443CF42284"
+					item: {
+						Count: 1
+						id: "etched:etched_music_disc"
+						tag: {
+							DiscColor: 5329233
+							LabelColor: {
+								Primary: 11546150
+								Secondary: 11546150
+							}
+							Music: {
+								Author: "Sam Haft & Andrew Underberg"
+								Title: "{\"text\":\"Stayed Gone\"}"
+								Url: "https://drive.usercontent.google.com/u/0/uc?id=1opXMdcy0wBkabhSVvWBUuPtgDPI21tco&export=download"
+							}
+							Pattern: 4b
+							RepairCost: 0
+							display: {
+								Name: "{\"text\":\"Stayed Gone\"}"
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7054F8FC016F6C72"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Удобный способ передачи информации"
+			tasks: [
+				{
+					id: "3703ABDBB166502B"
+					item: {
+						Count: 1
+						id: "simpleradio:transceiver"
+						tag: {
+							frequency: "000.00"
+							modulation: "FM"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "371E736D737E3952"
+					item: {
+						Count: 1
+						id: "simpleradio:radio"
+						tag: {
+							frequency: "000.00"
+							modulation: "FM"
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Радио убило видеозвезду"
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["01BBB80E21338A76"]
+			id: "0B7FECF74B443407"
+			rewards: [
+				{
+					id: "7F1DEE982B1869F1"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x12"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 2b
+									Slot: 0
+									id: "create:transmitter"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0FFC5D9401F9E8F1"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Наконец-то высший уровень удобства!"
+			tasks: [{
+				id: "09F0D643718FA634"
+				item: "create:redstone_link"
+				type: "item"
+			}]
+			title: "Дистанционный редстоун"
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["01BBB80E21338A76"]
+			id: "00297543BF5B62E1"
+			rewards: [{
+				id: "35863A059550C01A"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "Заказывает"
+			tasks: [{
+				id: "0DF013859C9CDCED"
+				item: "create:redstone_requester"
+				type: "item"
+			}]
+			title: "Заказчик"
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["01BBB80E21338A76"]
+			id: "41D93B1A372C9630"
+			rewards: [
+				{
+					id: "7D20269AECBC9109"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x12"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 8b
+									Slot: 0
+									id: "numismatics:spur"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0EB58CF37EAF1EDE"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Удачных покупок"
+			tasks: [{
+				id: "3869EE5EF2B4F97D"
+				item: "create:stock_ticker"
+				type: "item"
+			}]
+			title: "Кассир из Пятёрочки"
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			id: "2AB3E5BA09DC6DBD"
+			subtitle: "Роскоробнадзор"
+			tasks: [
+				{
+					id: "50764A28D9C262A7"
+					item: "create:packager"
+					type: "item"
+				}
+				{
+					id: "51F85FB0F63021B2"
+					item: "create:repackager"
+					type: "item"
+				}
+				{
+					id: "179CAD316C876D81"
+					item: "delivery_director:package_rewriter"
+					type: "item"
+				}
+			]
+			title: "Коробочный контроль"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "3C004D0A077C5BFD"
+			rewards: [
+				{
+					id: "4AC2BB1C1726469C"
+					item: {
+						Count: 1
+						id: "create:cardboard_package_12x10"
+						tag: {
+							Items: {
+								Items: [{
+									Count: 64b
+									Slot: 0
+									id: "create:cardboard"
+								}]
+								Size: 9
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3C3148DCDC611D28"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Ты коробка"
+			tasks: [
+				{
+					id: "787D27F511A23835"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "create:cardboard_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "60AFE17DDF121830"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "create:cardboard_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3415AE13B968B62B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "create:cardboard_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1A68019515D3E31B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								Insulation: [ ]
+							}
+						}
+						id: "create:cardboard_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "288A149E9C5209A8"
+					item: "create:cardboard_sword"
+					type: "item"
+				}
+			]
+			title: "Я коробка"
+			x: -2.0d
+			y: 0.0d
+		}
+	]
+	title: "Радио и логистика"
+}

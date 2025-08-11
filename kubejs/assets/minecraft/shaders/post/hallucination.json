@@ -1,0 +1,23 @@
+{
+    "targets": [
+        "temp",
+        "temp2"
+    ],
+    "passes": [
+        {
+            "name": "hallucination",
+            "intarget": "minecraft:main",
+            "outtarget": "temp",
+            "uniforms": [
+                { "name": "time", "type": "float", "count": 1, "values": [ 0.0 ] },
+                { "name": "intensity", "type": "float", "count": 1, "values": [ 0.5 ] },
+                { "name": "colorShift", "type": "float", "count": 3, "values": [ 0.2, 0.1, 0.3 ] }
+            ]
+        },
+        {
+            "name": "blit",
+            "intarget": "temp",
+            "outtarget": "minecraft:main"
+        }
+    ]
+} 

@@ -1,0 +1,16 @@
+StartupEvents.registry('item', event => {
+    event.create('barbiepill')
+        .displayName('Barbiepill')
+        .food(food => {
+            food.hunger(1)
+            food.alwaysEdible()
+            food.effect('minecraft:blindness', 400, 0, 1.0)
+            food.effect('minecraft:nausea', 350, 0, 2.0)
+            food.effect('biomancy:drowsy', 350, 0, 1.0)
+            food.effect('minecraft:slowness', 200, 0, 1.0)
+            food.effect('minecraft:resistance', 300, 2, 1.0)
+            food.effect('minecraft:weakness', 150, 2, 1.0)
+            food.effect('firstaid:morphine', 150, 0, 1.0)
+            food.fastToEat()
+        })
+})

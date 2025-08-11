@@ -1,0 +1,13 @@
+filename = 'createvinery-1.0.0.jar'
+name = 'Create Vinery'
+side = 'both'
+
+[download]
+hash = 'fcee7391b1d48b29211b27a6fc0ca46a79673a1a28522d79aee9e6f2a9238979a0e055c4bb92b51682aebe3ecdb81d00f2ffac347bb774cb7f7414bd953aaddb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BbP33Lgv/versions/c37BnuQ9/createvinery-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'BbP33Lgv'
+version = 'c37BnuQ9'

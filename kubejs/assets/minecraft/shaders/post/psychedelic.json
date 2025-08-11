@@ -1,0 +1,21 @@
+{
+    "targets": [
+        "temp",
+        "temp2"
+    ],
+    "passes": [
+        {
+            "name": "psychedelic",
+            "intarget": "minecraft:main",
+            "outtarget": "temp",
+            "uniforms": [
+                { "name": "time", "type": "float", "count": 1, "values": [ 0.0 ] }
+            ]
+        },
+        {
+            "name": "blit",
+            "intarget": "temp",
+            "outtarget": "minecraft:main"
+        }
+    ]
+} 

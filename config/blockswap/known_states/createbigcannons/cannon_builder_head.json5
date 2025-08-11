@@ -1,0 +1,221 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"attached": "true"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"attached": "true"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"attached": "true"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"attached": "true"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"attached": "true"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"attached": "true"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"attached": "true"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"attached": "true"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "up",
+			"attached": "true"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "up",
+			"attached": "true"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "down",
+			"attached": "true"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "down",
+			"attached": "true"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"attached": "false"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"attached": "false"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"attached": "false"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"attached": "false"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"attached": "false"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"attached": "false"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"attached": "false"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "up",
+			"attached": "false"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "up",
+			"attached": "false"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "down",
+			"attached": "false"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "down",
+			"attached": "false"
+		},
+		"Name": "createbigcannons:cannon_builder_head"
+	}
+]

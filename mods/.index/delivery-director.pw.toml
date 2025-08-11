@@ -1,0 +1,13 @@
+filename = 'delivery_director-1.0.1-all.jar'
+name = 'Create: Delivery Director'
+side = 'both'
+
+[download]
+hash = '44f4a070c50b5873386457340a14a3e9c43e743c52e6cc40f9c442227e2fa525c1ba1934d728451f8243c19b6adc5547b82f5e6f676505598d682ba12f4f41a5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qRL8MwMB/versions/a1iMicsh/delivery_director-1.0.1-all.jar'
+
+[update.modrinth]
+mod-id = 'qRL8MwMB'
+version = 'a1iMicsh'

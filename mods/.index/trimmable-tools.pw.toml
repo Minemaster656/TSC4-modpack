@@ -1,0 +1,13 @@
+filename = 'trimmable_tools-forge-2.0.5.jar'
+name = 'Trimmable Tools'
+side = 'both'
+
+[download]
+hash = 'c35d9c818c77f9866c53d8050195076a8e07427ccda0e6f71852a870e8dd995c7b34c99aaa8d530eea3bf46d8f3a362ef83d3a2df060f2a93a31a8d1e0bc0041'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MJu3fF3K/versions/4sbLapaH/trimmable_tools-forge-2.0.5.jar'
+
+[update.modrinth]
+mod-id = 'MJu3fF3K'
+version = '4sbLapaH'

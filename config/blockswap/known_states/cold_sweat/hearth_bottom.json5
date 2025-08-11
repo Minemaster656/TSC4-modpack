@@ -1,0 +1,324 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "true",
+			"heating": "true",
+			"facing": "north",
+			"cooling": "true"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "false",
+			"heating": "true",
+			"facing": "north",
+			"cooling": "true"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "true",
+			"heating": "false",
+			"facing": "north",
+			"cooling": "true"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "false",
+			"heating": "false",
+			"facing": "north",
+			"cooling": "true"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "true",
+			"heating": "true",
+			"facing": "south",
+			"cooling": "true"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "false",
+			"heating": "true",
+			"facing": "south",
+			"cooling": "true"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "true",
+			"heating": "false",
+			"facing": "south",
+			"cooling": "true"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "false",
+			"heating": "false",
+			"facing": "south",
+			"cooling": "true"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "true",
+			"heating": "true",
+			"facing": "west",
+			"cooling": "true"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "false",
+			"heating": "true",
+			"facing": "west",
+			"cooling": "true"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "true",
+			"heating": "false",
+			"facing": "west",
+			"cooling": "true"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "false",
+			"heating": "false",
+			"facing": "west",
+			"cooling": "true"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "true",
+			"heating": "true",
+			"facing": "east",
+			"cooling": "true"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "false",
+			"heating": "true",
+			"facing": "east",
+			"cooling": "true"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "true",
+			"heating": "false",
+			"facing": "east",
+			"cooling": "true"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "false",
+			"heating": "false",
+			"facing": "east",
+			"cooling": "true"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "true",
+			"heating": "true",
+			"facing": "north",
+			"cooling": "false"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "false",
+			"heating": "true",
+			"facing": "north",
+			"cooling": "false"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "true",
+			"heating": "false",
+			"facing": "north",
+			"cooling": "false"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "true",
+			"heating": "true",
+			"facing": "south",
+			"cooling": "false"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "false",
+			"heating": "true",
+			"facing": "south",
+			"cooling": "false"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "true",
+			"heating": "false",
+			"facing": "south",
+			"cooling": "false"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "false",
+			"heating": "false",
+			"facing": "south",
+			"cooling": "false"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "true",
+			"heating": "true",
+			"facing": "west",
+			"cooling": "false"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "false",
+			"heating": "true",
+			"facing": "west",
+			"cooling": "false"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "true",
+			"heating": "false",
+			"facing": "west",
+			"cooling": "false"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "false",
+			"heating": "false",
+			"facing": "west",
+			"cooling": "false"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "true",
+			"heating": "true",
+			"facing": "east",
+			"cooling": "false"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "false",
+			"heating": "true",
+			"facing": "east",
+			"cooling": "false"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "true",
+			"heating": "false",
+			"facing": "east",
+			"cooling": "false"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"smart": "false",
+			"heating": "false",
+			"facing": "east",
+			"cooling": "false"
+		},
+		"Name": "cold_sweat:hearth_bottom"
+	}
+]

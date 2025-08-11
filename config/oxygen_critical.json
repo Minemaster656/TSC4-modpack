@@ -1,0 +1,8 @@
+{
+  "overlayThreshold": 20.0,
+  "fadeSpeed": 1,
+  "fastFadeSpeed": 10,
+  "maximumOpacity": 245,
+  "debugMode": false,
+  "fastUpdate": false
+}

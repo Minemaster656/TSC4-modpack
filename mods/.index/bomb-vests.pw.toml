@@ -1,0 +1,13 @@
+filename = 'bombvests-1.1.5-1.20.1.jar'
+name = 'Bomb Vests'
+side = 'both'
+
+[download]
+hash = 'ce946fa6b626a9100e1b5048a2ccc4d8919a9257'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6081935
+project-id = 1072606

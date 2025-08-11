@@ -1,0 +1,61 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "3A897135313262C6"
+	group: ""
+	icon: {
+		Count: 1
+		id: "scguns:pax"
+		tag: {
+			AmmoCount: 6
+			Damage: 0
+		}
+	}
+	id: "3A897135313262C6"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "31C8C0C415BACDA7"
+		rewards: [
+			{
+				id: "0F61450A2261234D"
+				item: {
+					Count: 1
+					id: "create:cardboard_package_12x12"
+					tag: {
+						Items: {
+							Items: [{
+								Count: 4b
+								Slot: 0
+								id: "scguns:gun_parts"
+							}]
+							Size: 9
+						}
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "6C7616A385AAE7E1"
+				type: "xp"
+				xp: 5
+			}
+		]
+		tasks: [{
+			id: "6A1DDB9ACEF7C9B6"
+			item: {
+				Count: 1
+				id: "scguns:pax"
+				tag: {
+					AmmoCount: 6
+					Damage: 0
+				}
+			}
+			type: "item"
+		}]
+		title: "Big Iron"
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Маленькие стволы"
+}

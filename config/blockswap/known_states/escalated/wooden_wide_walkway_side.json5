@@ -1,0 +1,221 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "true",
+			"facing": "north",
+			"caps": "none"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "false",
+			"facing": "north",
+			"caps": "none"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "true",
+			"facing": "south",
+			"caps": "none"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "false",
+			"facing": "south",
+			"caps": "none"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "true",
+			"facing": "west",
+			"caps": "none"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "false",
+			"facing": "west",
+			"caps": "none"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "true",
+			"facing": "east",
+			"caps": "none"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "false",
+			"facing": "east",
+			"caps": "none"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "true",
+			"facing": "north",
+			"caps": "both"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "false",
+			"facing": "north",
+			"caps": "both"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "true",
+			"facing": "south",
+			"caps": "both"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "false",
+			"facing": "south",
+			"caps": "both"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "true",
+			"facing": "west",
+			"caps": "both"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "false",
+			"facing": "west",
+			"caps": "both"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "true",
+			"facing": "east",
+			"caps": "both"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "false",
+			"facing": "east",
+			"caps": "both"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "false",
+			"facing": "north",
+			"caps": "no_shaft"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "true",
+			"facing": "south",
+			"caps": "no_shaft"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "false",
+			"facing": "south",
+			"caps": "no_shaft"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "true",
+			"facing": "west",
+			"caps": "no_shaft"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "false",
+			"facing": "west",
+			"caps": "no_shaft"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "true",
+			"facing": "east",
+			"caps": "no_shaft"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"left": "false",
+			"facing": "east",
+			"caps": "no_shaft"
+		},
+		"Name": "escalated:wooden_wide_walkway_side"
+	}
+]

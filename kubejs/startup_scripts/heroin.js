@@ -1,0 +1,17 @@
+StartupEvents.registry('item', event => {
+    event.create('fentanil')
+        .displayName('Fentanyl')
+        .maxStackSize(16)
+        .food(food => {
+            food.hunger(1)
+            food.alwaysEdible()
+            food.effect('minecraft:blindness', 60, 255, 1.0)
+            food.effect('minecraft:nausea', 100, 255, 2.0)
+            food.effect('biomancy:drowsy', 350, 255, 1.0)
+            food.effect('minecraft:slowness', 60, 0, 3.0)
+            food.effect('minecraft:resistance', 1000, 3, 1.0)
+            food.effect('firstaid:morphine', 1200, 2, 1.0)
+            food.effect('minecraft:poison', 60, 0, 1.0)
+            food.fastToEat()
+        })   
+})
